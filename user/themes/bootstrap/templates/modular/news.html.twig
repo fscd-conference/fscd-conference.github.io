@@ -1,0 +1,16 @@
+<div class="modular-row news {{ page.header.class}}">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3"><h3>Latest News</h3></div>
+			<div class="col-md-9">
+				{{ content }}
+				<ul>
+					{% for p in page.find('/news').children.order('date', 'desc').slice(0, 3) %}
+			        	<li><b><a href="{{p.url}}">{{ p.title }}</a></b>&nbsp;<small><i class="fa fa-calendar"></i>&nbsp;{{ p.date|date("M j, Y")}}</small></li>
+			    	{% endfor %}
+				</ul>
+				<h5><a class="pull-right" href="{{ 'news' in base_url ? base_url : 'news' }}">All News</a></h5> 
+			</div>	
+		</div>	
+	</div>
+</div>
