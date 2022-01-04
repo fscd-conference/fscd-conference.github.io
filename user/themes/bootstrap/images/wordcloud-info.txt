@@ -1,0 +1,179 @@
+wordcloud info: http://www.wordclouds.com/
+OR: https://tagul.com
+
+Colors
+Color 1 #2c3e50
+Color 2 #ffffff
+Color 3 #95a5a6
+Color 4 #18bc9c
+Color 5 #3669a2
+
+
+5	computation
+5	deduction
+4	structures
+4	formal
+3	lambda-calculus
+3	higher-order
+3	verification
+3	termination
+3	first-order
+3	confluence
+3	strategies
+3	semantics
+3	rewriting
+3	automated
+3	calculi
+3	theorem
+3	theory
+3	proofs
+3	models
+3	logics
+3	terms
+3	types
+2	transformations
+2	paramodulation
+2	normalization
+2	applications
+2	polymorphism
+2	completeness
+2	intersection
+2	unification
+2	coinduction
+2	operational
+2	categorical
+2	techniques
+2	polynomial
+2	frameworks
+2	resolution
+2	complexity
+2	infinitary
+2	equational
+2	properties
+2	induction
+2	narrowing
+2	orderings
+2	inference
+2	symbolic
+2	bindings
+2	matching
+2	automata
+2	homotopy
+2	abstract
+2	analysis
+2	focusing
+2	nominal
+2	systems
+2	quantum
+1	constructive
+1	programming
+1	algorithmic
+1	linguistics
+1	completion
+1	procedures
+1	constraint
+1	education
+1	languages
+1	resources
+1	recursive
+1	dependent
+1	classical
+1	machines
+1	equality
+1	variable
+1	physics
+1	biology
+1	sequent
+1	session
+1	domain
+1	graph
+1	model
+1	nets
+1	game
+1	tree
+
+Excel 
+
+
+computation	5	95a5a6
+deduction	5	ffffff
+structures	4	18bc9c
+formal	4	95a5a6
+lambda-calculus	3	ffffff
+higher-order	3	3669a2
+verification	3	95a5a6
+termination	3	18bc9c
+first-order	3	3669a2
+confluence	3	95a5a6
+strategies	3	18bc9c
+semantics	3	18bc9c
+rewriting	3	ffffff
+automated	3	95a5a6
+calculi	3	18bc9c
+theorem	3	18bc9c
+theory	3	95a5a6
+proofs	3	ffffff
+models	3	18bc9c
+logics	3	18bc9c
+terms	3	ffffff
+types	3	95a5a6
+transformations	2	95a5a6
+paramodulation	2	3669a2
+normalization	2	95a5a6
+applications	2	ffffff
+polymorphism	2	95a5a6
+completeness	2	3669a2
+intersection	2	ffffff
+unification	2	95a5a6
+coinduction	2	ffffff
+operational	2	95a5a6
+categorical	2	3669a2
+techniques	2	95a5a6
+polynomial	2	ffffff
+frameworks	2	95a5a6
+resolution	2	18bc9c
+complexity	2	3669a2
+infinitary	2	ffffff
+equational	2	95a5a6
+properties	2	ffffff
+induction	2	95a5a6
+narrowing	2	ffffff
+orderings	2	ffffff
+inference	2	3669a2
+symbolic	2	18bc9c
+bindings	2	3669a2
+matching	2	95a5a6
+automata	2	ffffff
+homotopy	2	3669a2
+abstract	2	95a5a6
+analysis	2	ffffff
+focusing	2	95a5a6
+nominal	2	18bc9c
+systems	2	95a5a6
+quantum	2	95a5a6
+constructive	1	3669a2
+programming	1	ffffff
+algorithmic	1	18bc9c
+linguistics	1	3669a2
+completion	1	ffffff
+procedures	1	95a5a6
+constraint	1	3669a2
+education	1	3669a2
+languages	1	95a5a6
+resources	1	95a5a6
+recursive	1	18bc9c
+dependent	1	95a5a6
+classical	1	18bc9c
+machines	1	3669a2
+equality	1	95a5a6
+variable	1	18bc9c
+physics	1	3669a2
+biology	1	95a5a6
+sequent	1	18bc9c
+session	1	ffffff
+domain	1	18bc9c
+graph	1	95a5a6
+model	1	18bc9c
+nets	1	3669a2
+game	1	ffffff
+tree	1	95a5a6
