@@ -1,0 +1,228 @@
+------------------------------------------------------------------------ 
+Third International Conference on Formal Structures for
+Computation and Deduction (FSCD18)
+
+Minutes on the General Meeting - July 12th, 2018, 14:00 (Oxford, UK)
+
+Chair: Luke Ong
+Secretary: Jerome Jochems
+------------------------------------------------------------------------ 
+
+Agenda:
+
+1. Welcome by Steering Committee Chair, Luke Ong
+2. Report of FSCD18 PC Chair, Helene Kirchner
+3. Report of FSCD18 Conference Chair, Paula Severi
+4. Election of two Steering Committee members
+5. Progress Report of FSCD19
+  - PC Chair: Herman Geuvers
+  - Conference Chair: Jakob Rehof
+6. Proposal to host FSCD20 (colocating with IJCAR20) in Paris:
+  - Stefano Guerrini and Giulio Manzonetto
+7. Election result + Any Other Business
+8. Handover to new SC Chair (2018-2021), Delia Kesner.
+
+------------------------------------------------------------------------ 
+
+1. Welcome by Steering Committee Chair, Luke Ong
+
+Luke Ong welcomed everyone to the meeting.
+
+He summarised the role of the SC as looking after the general well-being 
+of the conference and its direction of travel. The most important task 
+of the SC is appointing the PC chair, followed by appointing the 
+conference chair.
+
+2. Report of FSCD18 PC Chair, Helene Kirchner
+
+Helene Kirchner gave her report as PC chair.
+
+She gave an overview of the programme that consisted of the Corrado Böhm 
+memorial on day 1, 4 invited talks, 15 affiliated workshops, and the 
+results of the confluence competition. Proceedings are available online.
+
+She presented statistics on this year's submissions. The number of 
+submissions is slightly lower than in the past two years, the acceptance 
+rate a bit higher at 42% (acceptance rates of FLoC18 conferences range 
+from 29 to 57%). Most papers were reviewed 3 times. The rebuttal phase is 
+found useful for reaching consensus.
+
+This year there were 3 systems papers submitted compared to 0 last 
+year of which 1 was accepted. The page limit of 6 on the systems papers 
+may be a factor in the low number of submissions. Helene suggested to 
+consider increasing the limit to 15 pages as for the regular papers.
+
+Helene described the criteria for the Junior Researcher Award. This year 
+15 papers were eligible. The prize was won by Ambrus Kaposi and András 
+Kovács for their paper "A Syntax for Higher Inductive-Inductive Types", 
+for which Helene awarded them each a certificate and a cheque.
+
+She thanked all contributors to and participants in FSCD18.
+
+3. Report of FSCD18 Conference Chair, Paula Severi
+
+Paula Severi gave her report as Conference Chair.
+
+This year, FSCD had 424 total registrations with 100 registrations for 
+the main conference. The number of registrations for workshops has 
+increased significantly with 324 this year compared to 60 and 155 in 
+2016 and 2017, respectively. There was an increase in the number of 
+workshops as well, all but one held before the main conference.
+
+She showed a breakdown of the registrants per continent.
+
+This year's fees were significantly higher, the workshop fees having 
+more than doubled since last year. This was a consequence of FLoC.
+
+Paula summarised her report as follows: the main conference had fewer 
+registrations, the workshops more. FLoC handled the organisation and 
+as a consequence the fees were higher.
+
+There was a request to distribute the slides of this meeting. Luke Ong 
+pointed out that the slides and minutes will be on the FCSD webpage.
+
+Luke Ong thanked the PC Chair and Conference Chair on behalf of the 
+community.
+
+4. Election of two Steering Committee members
+
+Luke Ong explained that the SC consists of 3 past PC co-chairs and 6 
+elected members. 2 new members were to be elected. There were 5 
+candidates each of which had submitted a 1 page statement available on 
+the webpage in advance of the conference. He presented an URL to the 
+rules of governance.
+
+The candidates were: Mauricio Ayala-Rincón, Eduardo Bonelli, Stefano 
+Guerrini, Cynthia Kop, and Olivier Laurent.
+
+Each attendee of the general meeting had 2 votes to be distributed over 
+the 5 candidates: 2 votes for a single candidate, or 1 vote each for 
+2 different candidates. The candidates with the greatest and second 
+greatest number of votes were to be elected. Voting was conducted by 
+secret ballot.
+
+(Announcement of results under 7.)
+
+5. Progress Report of FSCD19
+  - PC Chair: Herman Geuvers
+  - Conference Chair: Jakob Rehof
+
+5.1 PC Chair: Herman Geuvers
+
+Herman Geuvers sends his apologies. There is a preliminary call for 
+papers for FCSD19.
+
+5.2 Conference Chair: Jakob Rehof
+
+Jakob Rehof updated the community on the progress for FSCD19 in 
+Dortmund, Germany.
+
+The dates are fixed at 24/25 to 30 June 2019. The venue "Dortmunder U" 
+has been secured. Accommodation is available in the city centre.
+
+He described the history of the Ruhr area and of the venue. The venue 
+has a main theatre with 174 seats and several smaller conference rooms. 
+There are several airports close by.
+
+Jakob intends to employ Easy Conferences (also employed by ICALP16 in 
+Rome) as a conference agency. This caused some problems with some 
+German regulations but this is now resolved.
+
+He showed a preliminary schedule with the main conference running June 
+25-28, 4 workshops to run parallel to the conference, and 8 more after. 
+Some overlap between the workshops and the main conference is 
+inevitable due to constraints on the venue. 
+
+He anticipates around 12 workshops and invited discussion about this 
+via email. As a backup the 24th could be used at TU Dortmund (reachable 
+by public transport), or at a single floor in the Dortmunder U. Renting 
+the entire venue that day is expensive due to a staff holiday.
+
+He suggested Zeche Zollverein as location for a social event.
+
+6. Proposal to host FSCD20 (colocating with IJCAR20) in Paris:
+  - Stefano Guerrini and Giulio Manzonetto
+
+Luke Ong explained that one of the duties of the SC is to consider 
+proposals for FCSD(n+2). 
+
+Stefano Guerrini presented his proposal to host FCSD20 in Paris.
+
+The conference would be hosted by Université Paris 13 and Sorbonne 
+Paris Cité, and organised by LIPN and Insitut Galilee. The venue would 
+be Maison des Science de l'Homme on the new Condorcet campus in Paris 
+Nord. The dates would be June 29 until July 2 2020, with workshops on 
+June 28 and July 3-4.
+
+He gave an overview of Université Paris 13. The main organising 
+research group would be the LoVe (logic and verificaton) team, with 4 
+additional research groups which may be interested. He introduced 
+supporting organisations INRIA and the Parsival team.
+
+The venue has an auditorium that seats 300 people, a theatre that seats 
+140, and smaller conference rooms. There is also space for people to 
+work and collaborate in. It would be possible to record and/or stream 
+sessions.
+
+There are 2 main airports and 1 cheaper airport (Beauvois) close by, as 
+well as train station Gare du Nord. Stefano presented an overview of 
+Paris's extensive public transport. A metro station is 3 minutes away 
+from the venue as well as bus stops. Accommodation is available in all 
+price ranges. Cheaper student accommodation may be available 35 minutes 
+away.
+
+He suggested several options for social events.
+
+The fees would be 320-360 EUR for the main conferences, and 50 EUR per 
+day for workshops. He presented a budget projection and contributions 
+from supporting organisations.
+
+He is open to propositions to extend the conference with e.g. poster 
+presentations, student sessions, demo sessions, that sponsors may be 
+interested in.
+
+An attendee asked whether they would be a joint session with IJCAR. 
+Luke Ong replied that this is a question for the PC. He thinks it is a 
+good idea. Stefano Guerrini said that there is room to do so.
+
+Luke Ong added that the IJCAR SC has accepted the proposal to colocate, 
+so that unless someone objects we can continue.
+
+7. Announcement of Election Outcome + Any Other Business
+
+Luke Ong announced the results of the election. Results were as follows.
+
+Mauricio Ayala-Rincón: 23
+Eduardo Bonelli: 7
+Stefano Guerrini: 21
+Cynthia Kop: 26
+Olivier Laurent: 17
+
+Cynthia Kop and Mauricio Ayala-Rincón were elected to the SC for 3 
+years effective immediately.
+
+Frederic Blanqui announced the International School on Rewriting 1-5 
+July 2019 in Paris. He welcomes lecture proposals on all aspects of 
+rewriting and its applications.
+
+The attendees were reminded of the FCSD website and are invited to join 
+the mailinglist.
+
+8. Handover to new SC Chair (2018-2021), Delia Kesner.
+
+Luke Ong thanked Helene Kirchner, Paula Severi, this year's 
+organisation, the SC, and his students present at the meeting, the 
+members of the community, and the authors of this year's papers.
+
+He gave the floor to succeeding SC chair Delia Kesner.
+
+Delia Kesner thanked Luke Ong and is happy to be the next SC chair. She 
+presented her thanks in the form of an extremely short paper.
+
+Her motivations are the same as Luke's, which is to expand on 
+predecessor conferences RTA and TLCA. Her main theorem stated that Luke 
+Ong is a polymorphic SC chair. She presented a cloud of words related 
+to FCSD and the SC as a certified proof of her theorem.
+
+Delia concluded her paper with thanks to Luke Ong for his work for the 
+community, and closed the meeting.

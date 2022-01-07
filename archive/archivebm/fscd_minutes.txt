@@ -1,0 +1,311 @@
+--------------------------------------------------------------------------
+Fifth International Conference on Formal Structures for Computation and
+Deduction (FSCD20)
+
+Minutes on the General Meeting - July 3rd, 2020, 16:30-18:00 (virtual
+Zoom session)
+
+Chair: Delia Kesner
+Secretary: Cynthia Kop
+
+--------------------------------------------------------------------------
+AGENDA
+
+- Welcome by Steering Committee Chair: Delia Kesner
+
+- Election of two Steering Committee members
+  * Outgoing members: Carsten Fuhs and Sam Staton
+  * Candidates:
+    Silvia Ghilezan, Stefano Guerrini, Temur Kutsia, Giulio Manzonetto
+
+- Report of FSCD'20 (Paris, France)
+  * PC Chair: Zena Ariola
+  * Conference Chair: Stefano Guerrini
+  * Workshop Chair: Giulio Manzonetto
+
+- Small information session on FSCD'22 at FLoC (Haifa, Israel)
+  * PC Chair: Amy Felty
+  * Conference Chair: Nachum Dershowitz
+
+- Progress report on FSCD'21 (Buenos Aires, Argentina)
+  * PC Chair: Naoki Kobayashi
+  * Conference Chair: Alejandro Diaz-Caro
+  * Discussion on virtual/hybrid organization of FSCD'21
+  * Discussion on virtual/hybrid organization of future FSCDs (≥ 2023)
+
+- AOB
+
+--------------------------------------------------------------------------
+
+1. Welcome by Steering Committee Chair: Delia Kesner
+
+Delia Kesner welcomed everyone to the meeting and announced the agenda.
+
+She explains that the election will be unusual, since it will only
+take place after the meeting has completed.  This is because the
+voting feature in Zoom is not available to people connected from their
+browser, and it was not desirable to exclude people.  Instead, the
+vote will be done in a third-party application called Belenios, using
+the e-mail addresses of everyone who was present at the general
+meeting.
+
+2. Election
+
+Two elected members from the Steering Committee are leaving this year,
+having finished their three-year term: Carsten Fuhs and Sam Staton.
+Four candidates are available for this position: Silvia Ghilezan,
+Stefano Guerrini, Temur Kutsia, Giulio Manzonetto.
+
+Information on the SC is available at:
+  https://fscd-conference.org/organization/steering-committee
+Candidate statements are available at:
+  https://fscd2020.org/sc-election
+
+The electronic vote will be on Belenios.  Everyone attending the general
+meeting will receive two e-mails shortly afterwards, one with a
+username/password and one with credentials and instructions.  The vote
+will be open for 24 hours.  Candidates should be ranked 1-4.
+Damiano Mazza and Carsten Fuhs will be available to handle issues.
+
+(Announcement of the result under 8.)
+
+3. Report of FSCD'20
+
+* Report by the PC Chair, Zena Ariola:
+
+The PC had 35 members from 16 countries, including 11 women.
+
+Both regular papers and system descriptions were given 15 pages (plus 5
+pages appendix for regular papers), and 16 pages for the final version.
+
+The deadline was postponed four days, but this was effective: during the
+delay, 40 additional abstracts were submitted, of which 26 led to a paper
+submission, and 12 were accepted.  In total, only 81% of abstracts led to
+a paper submission.  The overall submission and acceptance rate was very
+similar to 2016.  France led in both number of submissions and number of
+accepted papers.  There were 25 single-author papers; 6 of these were
+accepted.
+
+Most papers had 3 reviews, although some had 4 or 5.  Following the
+rebuttal phase, there were very lively discussions, with reviews and
+scores getting modified; in the end, there was no need for a vote since
+the decision on all papers was clear.
+
+For the best paper awards for a junior researcher, the eligible papers
+were those where one of the authors had a PhD award date at most 3 years
+in the past, and for which the other authors declared that this junior
+researcher had done at least 50% of the work.  Of the eligible candidates,
+7 had an average score of 1.6 or higher.  As the PC members found it
+difficult to compare between a single-author paper with a paper
+co-authored with an established researcher, two awards were given.
+Due to good reviewer comments, a new award was created for best system
+description for junior researchers, which had two eligible candidates.
+
+The proceedings are published as volume 167 of LIPIcs, at
+  https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16152
+Zena comments on the excellent support from Michael Wagner and Michael
+Didas.  A special issue in LMCS is planned for the top papers.
+
+For the invited speakers, 87 names were originally submitted; the PC vote
+led to René Thiemann, Simona Ronchi della Rocca, Andrew Pitts and Brigitte
+Pientka.  Two of these speakers contributed a paper, which went through a
+light reviewing process.
+
+Zena concluded by expressing her thanks to Delia, Sandra, Stefano and
+other members of the program committee all of whom contributed to the
+success of the event.
+
+* Report by the Conference Chair, Stefano Guerrini
+
+Initially, the combined FSCD/IJCAR conferences were planned in a new and
+modern conference center in northern Paris; there were 23 workshop
+proposals accepted which led to the addition of an extra workshop day. The
+organizers expected about 300-400 participants for FSCD/IJCAR, and about
+500-600 for the workshops.
+
+However, existing plans for the conference organization and social events
+were put on hold when the COVID outbreak hit Italy in February, and in
+March the decision was made to move to a fully virtual conference.  Some
+workshops opted to cancel or postpone, but 16 still wished to join the
+virtual conference.
+
+There were many decisions to be made.  After some discussion with the SCs
+of the main conferences, Zoom was chosen as the video tool.  There would
+be live talks (following the structure of a traditional conference), but
+participants could submit a recorded talk as an alternative.  Safety was a
+key concern; for example avoiding zoom bombers and supporting participants
+who would prefer not to install the software.  Unfortunately, this did
+penalise socialising.  In the end, the main conferences and larger
+workshops used a webinar model, while smaller workshops used a meeting
+model (which allows for more interaction).  In the business meeting, more
+interaction was allowed by just promoting everyone to panelist.
+
+Since the model is new, there were many lessons to be learnt.  Authors and
+chairs were contacted for testing/practicing sessions. And the organizers
+also had their own testing and practice to do.
+
+Budget-wise: many hard expenses vanished in the virtual model; the
+concrete cost was less than 2000 euros for Zoom, 2220 euros for
+lipics, around 800 euros for EasyChair and 1800 euros for the awards
+(and could have been less; not all bought features were used).
+However, there were also new costs that were unaccounted for.  In
+particular, there is much more active and skilled work needed during
+the conference, as well as technical infrastructure (e.g., hosting
+multiple zoom sessions required a setup with multiple laptops).  This
+task has largely been done by the main organizers and thus does not
+appear in the budget, but arguably this should be done by a
+professional company, which would be very expensive.
+
+There were many problems and misunderstandings with Zoom sales and
+customer care.  They only got access to the full platform on 26 June,
+which means that configurations and final tests could only be done in the
+weekend before the event.  Also, EasyChair did not include an important
+feature that they had paid for: the integrated program.  Thus, they had to
+implement their own tool for the integrated program.
+
+On the upside, there were very few technical issues, and the quality of
+Zoom was good.  However, Zoom is not really adapted to this kind of event,
+for instance making it hard to switch between sessions or (for the
+organizers) to control multiple sessions in parallel.
+
+In the end, there were about 1000 participants pre-registered for
+FSCD-IJCAR, and about 300 people registered on each track via Zoom.
+
+In the end, organization was a very stressing and tiring job, but they are
+happy with the results.
+
+* Report by the Workhop Chair, Giulio Manzonetto
+
+Originally 11 FSCD workshops were planned and 12 IJCAR workshops,
+including two new workshops.  Due to the COVID crisis, 5 IJCAR workshops
+were dropped or postponed, and 1 FSCD workshop; the others opted to join
+the virtual event.
+
+There were quite a few pre-registrations for the workshops.  Not all
+pre-registered members participated in the end, but the overall turnout
+was still good.
+
+We have not been the target of Zoom bombers, likely due to (a) having
+restrictive but safe configurations, and (b) links being sent by private
+email only one day in advance.  The coffee break common rooms were
+unfortunately not very successful.
+
+For next year, Giulio recommends hiring external technical support, and
+adding Slack for asynchronous communication.
+
+4. Small information session on FSCD'22 at FLoC (Haifa, Israel)
+
+* Report by the Conference Chair, Nachum Dershowitz
+
+FSCD'22 is scheduled to be held in August 2022 in northern Israel, at the
+Technion on Mount Carmel.  It will be part of the Federation Logic
+Conference.  This will be the eight FLoC.
+
+Despite the current COVID crisis, planning for the event is continuing.
+The kick-off meeting for all conference chairs has been postponed to 2021
+(rather than this autumn); however, everyone is hopeful that the event can
+take place in a non-virtual way.
+
+5. Progress report on FSCD'21 (Buenos Aires, Argentina)
+
+* Report by the PC Chair, Naoki Kobayashi
+
+The first call for papers has already gone out; it is much the same as in
+previous years.  The abstract submission deadline will be on 12 February;
+the submission deadline on 15 February.  The rebuttal and notification
+will be in April, with the final version to be submitted on 3 May.
+
+* Report by the Conference Chair, Alejandro Diaz-Caro
+
+Next year's conference will be 19-25 July, in Buenos Aires.  It will take
+place in a new, modern building, the "Cero + Infinito".
+
+The conference will be organized in a hybrid model: local talks will be
+streamed, and speakers may give talks over a video conferencing tool that
+are projected for local participatns.  Several other conferences are
+currently planning a similar setup.  This setup has the dual advantage
+that it is more inclusive to people who do not have the funds or health or
+freedom to travel, and that it is relatively easy to move to a fully
+virtual conference if it seems unlikely that a phsyical conference cannot
+take place.  If this indeed seems unlikely, the organizers will decide by
+February (before the deadline) to move to a virtual conference.
+
+6. A discussion on future conferences
+
+Delia proposed to start a discussion on two questions:
+* Do you agree with the hybrid model for FSCD'21?
+* What would be an ideal conference model for FSCD after FLoC?
+
+This led to a large discussion, both with speakers on the microphone and
+in parallel many good arguments in the chat.
+
+There was almost universal agreement that a hybrid conference model is a
+good idea, not only for FSCD'21 but also permanently.  Compared to a fully
+virtual model, it allows for a greater degree of interaction.  Compared
+to a traditional conference, it is more inclusive for people who have a
+limited ability to travel (be it for budget, health, visa or family
+reasons), and much better for the environment.  However, there is the risk
+that only richer research groups can send people to conferences.
+
+Some people did raise issues that need to be taken into account in
+designing such a hybrid model, however:
+
+* Clément Aubert pointed out that we may need our own (open-source)
+  technical solutions for the long term. If we rely too much on Zoom,
+  EasyChair or other outside service, we risk being locked in to a
+  private system that may change its conditions on a whim.
+* Carsten Fuhs pointed out that various ingredients for hybrid conferences
+  are already there: ICFP 2017 broadcasted talks and allowed questions via
+  Slack, and PLDI provided places for socialising by moving an avatar into
+  a virtual room.
+* Lorenzo Tortora suggested that it may be worthwhile to make conferences
+  longer, which would both allow the people who do attend more time for
+  interaction, and make it easier for those who do not to view all the
+  talks they are interested in.  Alejandro Diaz-Caro noted that due to
+  timezone differences, it might indeed be necessary to compress the talks
+  into fewer slots, and adding extra opportunities for interaction may be
+  a way to fill the remaining time for on-site participants.
+* Lorenzo also pointed out that some people might not be comfortable with
+  their talk being reported and broadcast all over the world.
+* It is unclear how a hybrid conference should be funded, although there
+  are various possibilites; it would be natural to make the physically
+  present people pay more.
+* Jakob Rehof mentioned a discussion at the IFIP group regarding the
+  future of conferences.  Moshe Vardi had argued that computer science has
+  created a monster of constant travel, by entangling publications with
+  conferences -- and it's a monster we need to get rid of.  A hybrid model
+  for conferences may be a good way to migrate into an unknown future.
+
+Overall, several people noted that the community is now at a time of rapid
+change, and we will need to evaluate both the various forms of virtual
+conferences that are held this year and the new conference designs
+emerging in the coming period.  We have new ways to communicate, and have
+to explore the available options to use this at its full potential.
+It will likely take years to find the ideal new model.
+
+7. Closing of the meeting by Delia Kesner.
+
+Delia closed the meeting with thanks to the reviewers, PC chair Zena
+Ariola and PC members, the organizing team and conference chair Stefano
+Guerrini, workshop chair Giulio Manzonetto, IJCAR conference chair Kaustuv
+Chaudhuri, FSCD steering committee chair and session chairs, FSCD SC
+workshop chair Jamie Vicary, FSCD publicity chair Sandra Alves, general
+meeting secretary Cynthia Kop, electronic vote organizers Damiano Mazza
+and Carsten Fuhs, LIPIcs, EasyChair and the sponsors, and last but not
+least, all the invited speakers and paper authors.
+
+8. Announcement of election outcome
+
+After the vote was completed (a day after the general meeting), the
+results were announced via e-mail:
+* Silvia Ghilezan scored 144 points.
+* Stefano Guerrini scored 140 points.
+* Giulio Manzonetto scored 132 points.
+* Temur Kutsia scored 114 points.
+
+The points come from the borda method: 4 points for the first preference,
+3 points for the second, 2 points for the third one and 1 point for the
+last one.
+
+Silvia Ghilezan and Stefano Guerrini were elected to the SC.
+

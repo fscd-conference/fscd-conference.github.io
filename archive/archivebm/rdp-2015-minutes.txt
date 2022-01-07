@@ -1,0 +1,284 @@
+----------------------------------------------------------------------- 
+26th International Conference on Rewriting, Techniques and
+Applications (RTA 2015)
+
+13th International Conference on Typed Lambda Calculi and Applications
+(TLCA 2015)
+
+Minutes on the Business Meeting - July 1st, 2015, 2pm (Warsaw, Poland)
+
+Chair: Gilles Dowek
+Secretary: Ugo Dal Lago
+----------------------------------------------------------------------- 
+Agenda:
+
+    1. Report from the organisers and from RDP, RTA PC and TLCA PC. 
+    2. Proposal for a new conference. 
+    3. The new conference's SC.
+    4. Announcement of the new conference(s) in 2016.
+    5. Proposals for 2017.
+    6. RTA General Assembly.
+----------------------------------------------------------------------- 
+
+1. Report from the organisers and from RDP, RTA PC and TLCA PC.
+
+   A. Report on the organisation of RDP 2015 (by Alesky Schubert)
+   
+   Some statistical information about the conference has been given
+   by Aleksy Schubert (see attached slides), including numbers about
+   the last four RDP editions, the distribution of attendants over
+   days and countries, etc.
+
+   The audience raised no questions.
+ 
+   B. Report from the RTA 2015 PC (by Maribel Fernandez)
+  
+   Some information about the RTA 2015 PC has been given by Maribel
+   Fernandez (see attached slides), including the list of PC and SC
+   members, statistics about submissions, best paper awards, etc.
+
+   The following questions and observations were raised by the audience:
+   - Johannes Waldmann observed that the best paper awards should be
+     made public, and Fernandez replied that this year's best
+     paper award is mentioned in the proceedings.
+   - Aleksy Schubert asked which policy is followed when deciding
+     when to have best paper's presentations. Fernandez replied that
+     there are no such policy.
+
+   C. Report from the TLCA 2015 PC (by Thorsten Altenkirch)
+   
+   Some information about the TLCA 2015 PC has been given by Thorsten
+   Altenkirch (see attached slides), including the list of PC members,
+   statistics, etc.
+
+   There were no questions from the audience.
+    
+2. Proposal for a new conference.
+
+   Kristoffer Rose a Pawel Urzyczyn presented the proposal for a new
+   conference, called "Foundational Structures in Computation and
+   Deduction". Most important information: 
+   - The general assembly of RTA and TLCA, at VSL 2014, strongly
+     suggested to go to a new conference concept, which should 
+     include, in terms of scope, both RTA and TLCA.
+   - The two steering committees worked very hard since VSL 2014,
+     and ended up in proposals for a title, a list of topics
+     and some bylaws, which have been made public before RDP 2015.
+   - The proposal should be taken as open, and subject to 
+     modification, as decided by the new conference's SC.
+   - We are voting on the following issue: do we want to make a step
+     forward and have a larger conference?  
+
+   The audience asked the following questions:
+   - Grigore Rosu asked where does FSCD come from, and Rose replied
+     that it comes from the name of a course by Gérard Huet. The name
+     was suggested by Pierre-Louis Curien.
+   - Someone in the audience asked whether the new conference will
+     publish its proceedings at LIPIcs. Urzyczyn replied that both
+     TLCA and RTA currently publish at LIPIcs, and that the intention
+     is to terminate these two agreements, and start a new one for
+     FSCD, lasting five years. Rose asked whether voting about this
+     issue is a good idea. Jean-Pierre Jouannaud replied that probably
+     this is not a good idea: better to avoid voting and revoting
+     on the same issues.
+   - Urzyczyn shared the content of three emails about the new
+     conference he received, by Richard Statman, Moshe Vardi, and a
+     third one. All of them are positive and encouraging.
+   - Andy Polonsky asked whether the title of the conference could be
+     changed. Rose replied that the name is now fixed, but could be
+     changed by the SC. Jakob Rehof commented that the title issue is
+     fairly heavyweight: the intention is not to change the name too
+     often.
+      
+   The first vote has been on the following: should the FSCD proposal
+   need a 2/3 or a 1/2 majority to be approved? Results are as follows:
+     - 61 voted for 2/3;
+     - 6 voted for 1/3;
+     - 8 abstained.
+   A majority of 2/3 is then needed.
+
+   Some further discussion then happened:
+   - Jurgen Giesl proposed to proceed by secret rather than public 
+     voting. Rose replied that they were thinking about a public 
+     vote, and Giesl disagreed.
+   - Herman Geuvers asked how the FSCD SC is composed. Rose replied
+     that the proposed bylaws are indeed quite precise as for how
+     the SC is formed and elected, and that the issue would have
+     been discussed later.
+   - Barbara Morawska said she is also in favour of secret voting.
+
+   The second vote has been on the following: should we vote for the
+   main ballot secretly or publicly? Results are as follows:
+     - 38 voted for going secretly;
+     - 22 voted for going publicly;
+     - 9 abstained.
+   The vote for the main ballot is to be secret.
+
+   The third vote has been on the main ballot:
+
+       It is the will of the participants of RDP 2015 gathered at the
+       Business Meeting on July 1, 2015, to terminate the RTA and TLCA
+       conferences and introduce from 2016 on a new conference called
+
+           Formal Structures for Computation and Deduction (FSCD)
+
+        The scope of FSCD is intended to include and significantly
+        expand the subject areas of RTA and TLCA. The initial list
+        of~topics in the FSCD Proposal is by no means exhaustive
+        and~will evolve over time. The FSCD SC will revise the initial
+        FSCD Rules and will submit a final proposal after two years.
+
+   Results are as follows:
+     - 65 voted "yes";
+     - 12 voted "no";
+     - 3 abstained.
+   The new conference FSCD is then established.
+
+3. FSCD Steering Committee
+  
+   - Pawel Urzyczyn explained the rules for the formation of the FSCD.
+     In particular, there are two members coming from the RTA SC,
+     which will be elected in the RTA General Assembly, to be done
+     later in this BM.
+   - Among the SC's duties is to decide whether to go with LIPIcs
+     or not. Urzyczyn asked for comments on that. Gabriel Scherer
+     said that TLCA being open access is crucial. Georg Moser mentioned
+     the fact that going towards LIPIcs was quite a long process, and 
+     that he would hardly revert this decision.
+   - Another duty the FSCD newly formed SC needs to take care of is the
+     issue of the best paper award, which RTA traditionally had.
+   - Another crucial issue is publicity: Urzyczyn remarked that
+     placing FSCD at the right place from the very beginning is
+     going to be vital. Comments came from:
+       * Jean-Pierre Jouannaud, on the necessity of being publicly 
+         announced on the ACM and ICALP channels. 
+       * Aleksy Schubert, on the necessity of having sort of a
+         manifesto sent to the usual mailing lists, preferably
+         immediately after summer
+       * Pierre-Louis Curien, who suggested to have new subjects
+         explicitly mentioned in the first CfP.
+       * Grigore Rosu, who insisted on the necessity to have a strong
+         set of invited speakers already at FSCD 2016.
+       * Johannes Waldmann, who said he wants to have not only invited
+         speakers from new subjects, but also from traditional ones,
+         like rewriting. Rose replied that it is the new SC which
+         is charge of that.
+       * Sam Staton asked whether any ACM affiliation is planned.
+         Rose replied that there has been an offer from SIGPLAN.
+
+4. FSCD 2016 
+  
+   A. Scientific Matters
+
+   Brigitte Pientka and Delia Kesner, PC co-chairs for FSCD 2016, presented
+   some information about FSCD 2016 (see attached slides), and asked for
+   comments and questions.
+   - Hans Zantema asked about PC member submissions; after some
+     discussion Pientka said that they will adhere to FSCD bylaws, 
+     which say that PC chairs cannot submit papers, and that
+     PC members could (but their submissions should be measured with
+     higher standards).
+   - Gabriel Scherer asked whether an artifact evaluation committee
+     will be put in place, and Pientka said that it would be
+     difficult, and time consuming.
+   - Kaustuv Chaudhuri suggests to extend the "higher standard"
+     constraint to subreviewer's submission. Pientka replied
+     negatively, saying that the kind of reviewing process FSCD 
+     will adopt is different than the one of POPL or ICFP. Thorsten 
+     Altenkirch said that this would be anyway be unfeasible (finding 
+     subreviewers is hard anyway).
+   - Jean-Pierre Jouannaud said that he is skeptical about
+     author-response periods and, and that subreviewers should not
+     intervene in the discussion.
+   - Martin Hofmann said that he, instead, is very happy with
+     author-response, and Pientka agreed.
+   - Johannes Waldmann asked whether seeing other reviews as a subreviewers
+     would be possible. Pientka answered positively, provided anonymisation
+     is possible. Jouannaud said that he would keep interaction with 
+     subreviewers to a minimum.
+   - Peter Dybjer said that he is strongly in favour of the author-
+     response period.
+   
+   B. Organization Matters
+ 
+   Sandra Alves, OC chair for FSCD 2016, presented some information
+   about dates, venue, location, etc. (see attached slides), and asked
+   for comments and questions. 
+
+5. FSCD 2017 - Proposals
+ 
+   Sam Staton presented a proposal to co-locate FSCD 2017 with ICFP
+   2017, which will take place in Oxford, UK (see attached slides). The
+   dates would be 3-6 September. The following questions and remarks
+   have been asked:
+   - Michele Pagani said that the proposed dates would be a plus, because 
+     submission dates would be compatible with the ones of LICS.
+   - Georg Moser asked about registration costs, and Sam Staton replied
+     that they would be similar to the ones of similar conferences: around
+     350 pounds.
+   - Jean-Pierre Jouannaud said that the (submission) dates would be
+     between the ones of LICS and CSL.
+
+   Maribel Fernandez presented a proposal to have FSCD 2017 at
+   Montevideo, Uruguay (see attached slides), any date in July 
+   2017. ISR 2017 could take the place in Montevideo, as well.
+   The following questions were posed:
+   - Kristoffer Rose asked what's the size of the biggest room,
+     and Fernandez replied that there should be rooms with at 
+     least 250 seats.
+ 
+   The following comments and questions have been later posed:
+   - Johannes Waldmann asked about the possibility to have ISR 2017 in
+     Oxford, in case FSCD takes place there, too.  Sam Staton does not
+     know, but is optimistic.  
+   - Thorsten Altenkirch, Pierre-Louis Curien and Simona Ronchi said
+     they have mixed feelings: on the one hand, Montevideo looks good,
+     but on the other it would be better to stay close to Europe.
+   - Many people (Lutz Strassburger, Georg Moser, Jean-Pierre Jouannaud)
+     said that it would be crucial to have FSCD always at the same time
+     of the year, from the very beginning. Others, like Michele Pagani, 
+     said that having FSCD 2017 in September would increase the number 
+     of submissions.
+  
+   The fourth vote is a proposal to the SC about FSCD 2017: should it
+   be held in Oxford, UK or Montevideo, Uruguay. Results are as follows:
+   - 18 voted for Montevideo
+   - 33 voted for Oxford
+   - 19 were neutral
+   
+   After the votes, there were a few comments:
+   - Sam Staton said that having FSCD earlier could be discussed, but
+     Aleksy Schubert said that he would prefer to co-locate with
+     ICFP.
+   - Delia Kesner said that she thinks that keeping strong links with
+     south-american universities and research institutions is important.
+
+6. RTA General Assembly.
+  
+   A. RTA Steering Committee Election.
+   
+   Candidates are Santiago Escobar, Narciso Marti Oliet, and René Thiemann. 
+   Everyone voted, secretly, for two candidates. Results are as follows:
+   - Escobar: 21
+   - Marti-Oliet: 3
+   - Thiemann: 38
+  
+   Escobar and Thiemann are then elected.
+
+   B. RTA Bylaws Change.
+   
+   Following an earlier vote today, we need to change RTA's bylaws
+   adding the following article 0:
+
+   0. The RTA conference is being cancelled. All obligations in the
+      following paragraphs are cancelled if they pertain to activity
+      after December 31st, 2015. In case of conflict between this
+      paragraph and the remaining paragraphs, this paragraph takes
+      precedence.
+
+   Results are as follows:
+   - Yes: 28
+   - No: 1
+   - Abstain: 4
+
+   Article 0 is then added to RTA's bylaws.

@@ -1,0 +1,272 @@
+-----------------------------------------------------------------------
+Second International Conference on Formal Structures for
+Computation and Deduction (FSCD'17) 
+
+Minutes on the Business Meeting - Sep 6th, 2017, 17:20 (Oxford, UK)
+
+Chair: Luke Ong 
+Secretary: Martin Lester
+----------------------------------------------------------------------- 
+
+Agenda:
+
+1. Welcome by Steering Committee Chair, Luke Ong
+2. Report of FSCD 2017 PC Chair, Dale Miller
+3. Report of FSCD 2017 Conference Chair, Sam Staton
+4. Progress Report of FSCD 2018 (member conference of FLoC 2018)
+  - PC Chair: Helene Kirchner
+  - Conference Chair: Paula Severi
+5. Proposals to host FSCD 2019
+  - Dortmund: Jakob Rehof
+  - Paris: Stefano Guerrini
+6. Election of two new Steering Committee members.
+  - Candidates: Carsten Fuhs, Stefano Guerrini, Sam Staton.
+7. Any Other Business
+
+----------------------------------------------------------------------- 
+
+1. Welcome by Steering Committee Chair, Luke Ong
+
+Luke Ong welcomed everyone to the meeting.
+
+He summarised the role of the SC as looking after the general well-being of 
+conference and its direction of travel. He said its most important task is 
+appointment of PC chair, who appoints the PC. Its next most important task 
+is appointment of the conference chair.
+
+2. Report of FSCD 2017 PC Chair, Dale Miller
+
+Dale Miller gave his report as PC chair.
+
+He thanked the chairs of some committees that were not mentioned elsewhere
+in his report: the conference chair (Sam Staton), the workshop chair (Jamie
+Vicary) and the student bursary chair (Ohad Kammar).
+
+He gave some statistics about the composition of the PC, followed by some on
+paper submission and reviewing. The paper acceptance rate this year was
+39%. Statistics were comparable to last year, except that no systems papers
+were accepted this year. He remarked that systems papers competed with
+other papers for selection for the programme; they were not put in a
+separate pool.
+
+Every paper had 3 reviews and a rebuttal. Dale said that he found the
+rebuttal process helpful in deciding the final programme.
+
+An award for the best paper by junior researchers had been planned, but
+no qualifying papers were accepted. He mentioned a proposal to extend
+eligibility as a junior researcher from from 3 years post-PhD to 7 years
+post-PhD in order to increase the number of eligible papers.
+
+The programme comprised 4 invited speakers and 29 contributed full papers
+of 15 pages plus 5 pages for references/appendices. There were 11 workshops.
+
+Proceedings will be published by LIPIcs. This year, no USB drive was
+distributed to attendees, only an URL to online proceedings. The use of
+the OpenConf system allowed easier entry of accurate metadata. Some papers
+will be invited for inclusion in a special issue of LMCS.
+
+3. Report of FSCD 2017 Conference Chair, Sam Staton
+
+Sam Staton gave his report as Conference Chair.
+
+This year, FSCD had 260 registrants in total (including workshops), of which
+105 registered for the main conference. This is an increase on last year. 
+The HDRA/String and TLLA workshops turned out to be larger than expected.
+
+The registration fee for the main conference was 240-480 GBP; for workshops
+it was 40-60 GBP. Including all workshops, the conference had 5 venues and
+6 caterers, which made organisation complicated.
+
+Sam thanked Oxford's Department of Computer Science for free use of some of
+its rooms for workshops. Other workshop rooms were paid for, with the cost
+being shared among all workshops.
+
+The main conference had to have same fees as ICFP, as they were colocated.
+
+Sam reviewed some statistics of registrants by country.
+
+He thanked all the organisers and helpers.
+
+4. Progress Report of FSCD 2018 (member conference of FLoC 2018)
+  - PC Chair: Helene Kirchner
+  - Conference Chair: Paula Severi
+
+4.1. Conference Chair: Paula Severi
+
+Paula Severi gave her report.
+
+FSCD 2018 will be in Oxford as part of FLoC. The main conference will run
+9th-12th July. There will be 16 workshops. All are expected to be in the 2
+days preceding the main conference, except for Modular Knowledges, which
+will occur afterwards.
+
+She advertised some details common to other FLoC events. There should be
+plenty of accommodation, but she advised not to leave booking it until the
+last minute.
+
+She noted that Sandra Alves will be the FSCD Publicity Chair for 2018.
+
+4.2. PC Chair: Helene Kirchner
+
+Helene Kirchner gave her report.
+
+She advertised the call for papers. She presented some statistics on the PC
+and deadlines relating to paper submission and publication.
+
+5. Proposals to host FSCD 2019 (conducted between items 6.2 and 6.3 to allow
+time for counting votes for the new SC members)
+  - Dortmund, Germany: Jakob Rehof
+  - Paris, France: Stefano Guerrini
+
+5.1. Dortmund, Germany
+
+Jakob Rehof presented his proposal.
+
+Dortmund is one of the largest metropolitan areas in Europe. It is easy to
+reach: it has its own minor airport and is about 45 minutes by train from
+Dusseldorf Airport. Other major German airports are also well-connected.
+
+He proposed the end of June 2019 or start of July 2019. As a venue, he
+suggested the "Dortmunder U" building in the city centre, in which the
+university is a stakeholder. It has 174 seats in the main theatre, with 3
+smaller meeting/workshop rooms (40, 20 and 10 seats); there is a further
+free space area. Accommodation would be in hotels in the city centre. He
+suggested Zeche Zollverein as a venue for a social event.
+
+5.2. Paris, France
+
+Stefano Guerrini's proposal was presented by Giulio Manzonetto.
+
+For the main 4 days of the conference, he suggested 1st-4th July or possibly
+17th-20th June. The conference would be organised by the university Paris
+13, specifically the LoVe and LIPN groups. As the main campus is too far
+north, he proposed Maison des Sciences de l'Homme Paris Nord in La Plaine
+Saint-Denis as a venue. It has 300 seats in the main auditorium, 140 seats
+in a theatre and further conference and meeting rooms. It has video
+recording/streaming facilities.
+
+Paris has two main airports and high-speed train connections. The venue is
+reachable by Metro 12 or bus 139/239. A range of hotels are available in
+Paris, as well as student accommodation on campus Villetaneuse.
+
+He proposed 3 days for workshops. Provisional fees would be 320-360 EUR for
+the main conference and 50 EUR per day for workshops. He gave a budget
+projection.
+
+5.3. Questions and Advisory Vote
+
+Luke Ong said that there would be an advisory vote at the meeting, but the
+SC will make final choice. He invited questions from the floor (paraphrased
+below).
+
+- Question: How much will Dortmund cost to attend?
+- Jakob Rehof: I cannot give an estimate, but as Dortmund is not an
+  expensive place, I expect it to be within normal bounds.
+
+- Jamie Vicary: The Paris proposal included external funding. Is it secured
+  or provisional?
+- Giulio Manzonetto: The funding from the university is secured. The funding
+  from CNRS is not, but is very likely to be awarded.
+
+- Sam Staton: Have you thought carefully about workshop numbers?
+- Jakob Rehof: Yes. It is one of the challenges for my proposal, as we only
+  have a limited number of rooms in the building. If we have 16 workshops, I
+  cannot promise no overlap between workshops and the main conference. I
+  think it would be doable in a reasonable way, but it would be a challenge.
+- Giulio Manzonetto: We should have enough space.
+
+There was a vote by show of hands.
+
+Dortmund: 32
+Paris: 20
+
+Luke Ong said he would inform the SC of the outcome of the advisory vote.
+
+6. Election of two new Steering Committee members.
+  - Candidates: Carsten Fuhs, Stefano Guerrini, Sam Staton.
+
+6.1. Composition of SC
+
+Luke Ong explained that the SC comprises 3 past PC co-chairs and 6 elected
+members. 2 new members were to be elected.
+
+He mentioned that SC member Kris Rose passed away in September 2016 and
+invited Sandra Alves to say a few words in his memory.
+
+6.2. Election Procedure
+
+Luke Ong explained the election procedure. Each candidate had submitted an
+election statement, which was posted on the conference website a week before
+the conference. Every attendee was given 2 votes, which could be
+distributed between the 3 candidates: 2 votes to a single candidate, or 1
+vote each to two different candidates. The candidates with the greatest and
+second greatest number of votes would be elected. Voting was conducted by
+secret ballot.
+
+6.3. Election Results
+
+The results were:
+
+Carsten Fuhs: 43
+Stefano Guerrini: 30
+Sam Staton: 75
+
+Sam Staton and Carsten Fuhs were elected to the SC.
+
+7. Any Other Business
+
+7.1. Future Colocation of FSCD
+
+Luke Ong asked whether attendees were in favour of colocation. He said that
+advantages were having more talks, from which people could pick
+and choose and having more people to meet. He proposed a vote on the
+following questions:
+
+1. Should FSCD regularly colocate with an established conference?
+2. Do you support regular colocation with ICFP?
+3. Do you support colocation with CADE?
+
+However, an attendee proposed that it would be more useful to have a
+discussion (paraphrased below).
+
+- Question: How do you define "regularly"?
+- Luke Ong: It could be every year. It could be every other year.
+- Jakob Rehof: There is a big difference. I like the current practice of
+  FSCD sometimes being by itself and sometimes colocated.
+
+- Question: Perhaps you could ask whether we want to colocate in 2019?
+- Luke Ong: It is unlikely to be practical. For example, CADE has decided
+  to meet outside Europe.
+
+- Jamie Vicary: The original plan for FSCD was to colocate workshops with
+  ICFP too. This turned out to be unworkable because there was not enough
+  space. ICFP is also much bigger financially and charges about 4 times as
+  much as FSCD. So colocation of workshops does not make sense, from my
+  perspective.
+- Luke Ong: It seems like the workshops are colocated.
+- Jamie Vicary: No, you must pay separately for ICFP and FSCD workshops,
+  and some people were angry about this.
+- Brigitte Pientka: One reason ACM charges high fees is because there are more
+  scholarships and bursaries.
+- Jamie Vicary: We are currently free to increase fees to give out grants
+  if we want.
+
+- Helene Kirchner: We should be flexible. Sometimes the dates are not
+  convenient, even if we want to colocate. We should decide on a case-by-case
+  basis.
+
+- Attendee: My impression is that colocation with ICFP reduces attendance to
+  FSCD talks.
+- Sam Staton: I am wary to draw that conclusion; I saw many ICFP attendees at
+  FSCD talks.
+
+Luke Ong summarised the discussion by noting that people appeared not to be
+in favour of colocation every year, but people are willing to consider
+proposals. He will pass this on to the SC.
+
+7.2. Close of Meeting
+
+Luke closed the meeting with thanks to the invited speakers, PC chair and PC
+members, conference chair, workshop chair and local organising team, authors
+and participants.
+

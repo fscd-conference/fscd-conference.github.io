@@ -1,0 +1,96 @@
+-----------------------------------------------------------------------
+First International Conference on Formal Structures for
+Computation and Deduction (FSCD'16) 
+
+Minutes on the Business Meeting - June 25th, 2016, 2pm (Porto, Portugal)
+
+Chair: Luke Ong 
+Secretary: Ana Paula Tomás
+----------------------------------------------------------------------- 
+Agenda:
+
+    1. Welcome by Steering Committee Chair, Luke Ong. 
+    2. Report of FSCD 2016 PC Co­chairs (Delia Kesner 
+       and Brigitte Pientka). 
+    3. Report of FSCD 2016 Conference and Workshop Chair 
+       (Sandra Alves) 
+    4. Progress reports on FSCD 2017, 3-6 September, Oxford
+       (co­locating with ICFP 2017) 
+         - PC Chair (Dale Miller) 
+         - Conference Chair (Sam Staton)
+    5. FSCD 2018 ­ member conference of FLoC 2018, 6­19 July, Oxford
+         - Brief progress report (Luke Ong) 
+    6. Election of FSCD SC members (Luke Ong)
+    7. A.O.B. (any other business)
+----------------------------------------------------------------------- 
+
+1. Welcome by Steering Committee Chair, Luke Ong. 
+
+Luke Ong recalled the origin of FSCD and thanked Gérard Huet for allowing the title of his unpublished book to be used as the name of the conference. 
+
+2. Report of FSCD 2016 PC Co­-chairs (by Delia Kesner and Brigitte Pientka). 
+
+Delia Kesner gave some information about FSCD 2016 PC (1/3 from RTA community, 1/3 from TLCA, 1/3 from related ones) and about the selection of invited talks. She mentioned some conflict rules defined for the PC and presented statistics about submissions of abstracts and papers, the refereeing process and the acceptance rates. 
+
+Brigitte Pientka gave additional information on the invited talks, FSCD 2016 co-located workshops, and statistics about the accepted papers. She pointed out difficulties in the production of the proceedings: the lack of support of EasyChair for LIPics and the delayed delivery of the files by the publisher.
+
+She mentioned that some of the FSCD papers will be published as a special issue of "Logical Methods in Computer Science" and that authors will be contacted within two months for the journal issue.
+  
+She observed that the rebuttal period was very positive and raised some points for future discussion, regarding the rules for the best student paper (currently quite narrow), asked whether the acceptance rate should get more competitive, and pointed out the need to articulate the deadlines with related conferences (e.g., the deadline was too close to LICS this year). Finally she thanked authors, invited speakers, the PC, SC, CC and external reviewers, LIPics and EasyChair, sponsors, the SC chair Luke Ong and the Conference Chair Sandra Alves.
+
+Aleksy Schubert asked about the papers/topics considered in the intersection of RTA-TLCA by the PC. Delia Kesner replied, giving higher order rewriting and reversible computing as instances. The audience raised no more questions.
+
+
+3. Report of FSCD 2016 Conference and Workshop Chair (by Sandra Alves) 
+
+Sandra Alves presented estimate values for the budget (total income and expenses) and statistics about the organisation and participation in the main conference and the co-located workshops.
+
+There were no questions from the audience.
+   
+4. Progress reports on FSCD 2017, 3-­6 September, Oxford, co­located with ICFP 2017
+(by PC Chair (Dale Miller), and Conference Chair (Sam Staton))
+
+A. Dale Miller presented the FSCD 2017 PC and tentative dates for the deadlines, pointing out the need to take into account the notifications from related conferences. He added that a draft of the call for papers was available from his homepage.
+    
+There were no questions from the audience. 
+ 
+B. On behalf of the CC Chair FSCD 2017, Jamie Vicary (FSCD 2017 Workshop Chair) gave an overview of the venue facilities at Mathematical Institute and of the conference webpage and observed that the workshops will run after the conference (from 7 to 9 September). [Jamie Vicary intervention took place after point 7., because he joined the meeting later in order to attend a talk.]
+  
+The following questions and observations were raised by the audience:
+     
+- Brigitte Pientka asked whether there would be a joint registration fee for FSCD and ICFP. Jamie Vicary said that it was being discussed. It was observed that ICFP is a ACM SIGPLAN Conference, which can have some implications for FSCD (although FSCD is an ACM in-cooperation conference).
+
+- Aleksy Schubert suggested that 5 minute slots for discussion be made explicit in the booklets for presentations.
+
+5. FSCD 2018 ­ member conference of FLoC 2018, 6­-19 July, Oxford (Brief progress report by Luke Ong) 
+
+Luke Ong explained that FSCD 2018 will take place in Oxford in 2018 as part of FLoC and announced that Paula Severi was appointed Conference Chair by the SC.  
+
+6. Election of FSCD SC members (Luke Ong).
+
+Luke Ong explained some issues about FSCD governance, addressing: 
+      
+- the document "FSCD Rules" (http://fscdconference.org/fscd-rules.pdf) is under discussion to be confirmed in FSCD next year and any contributions/proposals should be sent to him before the next conference.  
+     
+- the affiliation of FSCD with ACM as an "ACM in-cooperation..." conference,  benefits and obligations;
+    
+- the current rules for SC and the need to elect two new members, for which there were two candidates (Sandra Alves and Naoki Kobayaski). Luke Ong asked if there were any objection to the election of the two candidates. No objections were raised by the audience.
+
+- the 5-year contract with LIPIcs for publishing FSCD proceedings, observing that the article processing charge (currently 15€) will increase by 15€ every year, reaching 60€ in 2019.
+
+7. Any other business
+ 
+7.1. Jakob Rehof said that it was worth considering the publicity work and the webpage, seeing some potential to drive up submission numbers. 
+ 
+7.2. Aleksy Schubert observed that the selected invited speakers can attract people from related communities. Luke Ong proposed to select PC members that people can easily identify with some topics. He mentioned that FSCD SC will appoint the PC chair for 2018 before the end of the year.
+
+7.3. Brigitte Pientka suggested that some call for papers be distributed in strategic forthcoming conferences (e.g. ICFP 2016).
+
+7.4. Regarding the acceptance rate, Jakob Rehof suggested to talk to Moshe Vardi about CAV experience. Brigitte Pientka observed that the number of days for the conference imposes a natural limit on the number of papers, if there are no parallel tracks for presentation sessions. 
+
+7.5. Beniamino Accattoli observed that the quality of the talks should be improved because some talks were difficult to understand and suggest considering a best talk award.  
+
+7.6. Aleksy Schubert observed that there must be some reflection on the co-location of FSCD in FLOC 2018, as there is a non-trivial overlap with other FLOC conferences (e.g. with LICs). 
+    
+
+[Luke Ong thanked invited speakers, PC co-chairs, OC chair, all authors and participants, and sponsors.]

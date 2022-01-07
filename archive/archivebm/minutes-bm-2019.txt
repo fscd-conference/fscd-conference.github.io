@@ -1,0 +1,179 @@
+------------------------------------------------------------------------ 
+Fourth International Conference on Formal Structures for
+Computation and Deduction (FSCD18)
+
+Minutes on the General Meeting - June 28th, 2019, 14:00 (Dortmund, Germany)
+
+Chair: Delia Kesner
+Secretary: Sarah Winkler
+
+------------------------------------------------------------------------ 
+AGENDA
+
+-Welcome by Steering Committee Chair:  Delia Kesner
+
+-Report of FSCD'19
+ -PC Chair: Herman Geuvers
+ -Conference Chair: Jakob Rehob
+ -Workshop Chair: Boris Dudder
+
+-Progress Report of FSCD'20
+ -PC Chair: Zena Ariola (represented by Stefano Guerrini)
+ -Conference Chair: Stefano Guerrini
+
+-Election of two Steering Committee members
+ -Outgoing members: N. Kobayashi and B. Pientka.
+ -Candidates:
+  O. Laurent (ENS Lyon), D. Mazza (Univ. Paris-Nord), J. Rehof (TU Dortmund).
+
+-Advisory vote for location FSCD'21
+ -Alejandro Diaz-Caro (Buenos Aires)
+ -Gopalan Nadathur (Minneapolis)
+
+-AOB
+------------------------------------------------------------------------
+
+1. Welcome by Steering Committee Chair Delia Kesner
+   - the agenda is announced
+   - it is made clear that also participants of the parallel IWC/HOR
+     session can vote for both the new steering committee members and
+     the location on FSCD 2021
+
+2. Report of FSCD'19 PC Chair Herman Geuvers
+   - The composition of the PC was done with the intent to obtain a fair
+     distribution with respect to topics, geographic location, and gender
+     Result: 32 members from 18 countries, including 8 females.
+   - There were 2 categories of papers (regular and system description),
+     both 15 pages each, excluding references, possibly with an appendix
+     in addition.
+   - The schedule (only three days for rebuttal, only one week of
+     discussion afterwards) turned out to be rather tight
+   - Submissions and reviews:
+     - 69 regular submissions and one system description were received
+       (previous years: 2016 77/5, 2017 74/3, 2018 62/3 regular/system)
+     - 77 abstract submissions, so 90% of abstracts materialized into a
+       full paper submission,
+     - the accepance rate was at 42% (29 out of 69 paper submissions)
+     - Most papers had 3 but 5 papers 4 reviews (overall 212 reviews of
+       105 external reviewers); reviewing was done with easychair
+     - 60 of 69 papers used the rebuttal period to reply, 34 reviews
+       were modified
+   - Best paper award for junior researchers:
+     - 14 candidate papers, 6 only by juniors: majority of PC decided to
+       restrict to these 6
+     - 2 papers were standing out, after discussion with Delia it was
+       decided to give out 2 awards:
+       * Mirai Ikebuchi: A Lower Bound of The Number of Rewrite Rules
+         Obtained by Homological Methods
+       * Jonathan Sterling, Carlo Angiuli and Daniel Gratzer:
+         Cubical Syntax for Reflection-Free Extensional Equality
+   - Proceedings were done with LipiCS; they were very supportive
+     - authors got back paper before ascension day, and had only 3 days to
+       check the final version
+     - in the future authors should also get diff files of changes
+     - participants received proceedings on a USB stick.
+     - LMCS special issue planned, with Femke van Raamsdonk as co-editor
+   - Talks:
+     - conference had 29 contributed regular talks and 1 system description
+       (30 minutes talk each) 
+     - PC decided on invited speakers, intending good distribution of
+       topics/geography/gender: Beniamino Accattoli (France), Amy Felty
+       (Canada), Sarah Winkler (Austria), Hongseok Yang (South Korea)
+   - 7 associated workshops
+
+3. Report of FSCD'19 Conference Chair: Jakob Rehof
+   - 7 satellite events: UNIF, WPTE, IFIP 1.6, IWC, HOR, TLLA, SD
+   - There were 2 more at FSCD 2017, the overlap with LICS this year is
+     considered unfortunate.
+   - Participants:
+     - 142 FSCD participants: 90 for main conference, 52 workshop only
+       169 workshop participations:
+       28 UNIF, 32 WPTE, 19 IFIP 1.6, 20 IWC, 17 HOR, 62 TLLA + SD
+     - by country France and Germany had largest participation numbers
+   - Budget:
+     - expenses 70.000 EUR, income 75.000 EUR (around 10.000 EUR
+       sponsorships)
+     - the central building incurred additional cost but FSCD was also
+       sponsored by the city of Dortmund in that rental fee was waived
+
+4. Progress Report of FSCD'20 by Conference Chair Stefano Guerrini
+   - Stefano also represents PC Chair Zena Ariola, who is not present
+   - FSCD 2020 will be mainly organized by Universite Paris 13
+   - due to the colocation with IJCAR, on main days about 300 people
+     are expected to be around
+   - not yet decided whether two conferences will be in parallel, or one
+     conference is shifted such that it will overlap with workshops
+   - dates: main conference June 29 - July 2, workshops on July 3 - 5,
+     possibly also June 28
+   - local organization: Stefano Guerrini (conference chair), Giulio
+     Manzonetto (workshop chair), Kaustuv Chaudhuri (IJCAR chair)
+   - satellite events will not be associated to either IJCAR or FSCD
+   - location:
+     - FSCD 2020 will be held at the new research campus Condorcet
+     - facilities reserved for whole week, two main lecture halls (250
+       and 150p), one large and 5 small conference rooms (50 and 25p)
+     - not exactly central, but well connected to public transport
+       (20 min to Chatelet-Les Halles)
+     - on campus there is also student accommodation, maybe rooms
+       for guests, not sure whether they will be already finished
+   - next point: raise money (Inria, CNRS, universities, private sponsors)
+   - PC is fixed: 40 members, 16 countries, 4 continents, ensuring
+     topics and relevant themes covered
+   - paper categories: regular and system descriptions (both 15 pages)
+   - dates: January 31 abstract, February 5 submission, March 21-23
+     rebuttal, April 6 notification
+
+5. Election of two new steering committee members
+   - three candidates to replace N. Kobayashi and B. Pientka:
+     - Olivier Laurent (ENS Lyon)
+     - Damiano Mazza (Univ. Paris-Nord)
+     - Jakob Rehof (TU Dortmund)
+   - in the election, every voter can give 3-2-1 points to reflect
+     decreasing preference (it is not necessary to give all points)
+   - result: 155 points for Jakob, 94 for Damiano, 88 for Olivier,
+     hence Jakob and Damiano are elected.
+
+6. Advisory vote on location for FSCD 2021
+   - the SC decided that FSCD 2021 should be outside Europe
+   - two proposals were selected and get presented now
+
+A. Buenos Aires (presented by Alejandro Diaz-Caro)
+   - FSCD would be organized by the Instituto de Ciencias de la
+     Computacion, Universidad de Buenos Aires
+   - it would take place in a new building at the university
+     campus in the north of Buenos Aires
+   - there is enough space for conference and workshops
+   - intended dates: July 19 - 23 (during local winter holidays)
+   - intended registration fees:
+     - 360/280 EUR regular/student (430/335 later) for 4 days
+       of conference, lunches included
+     - 120/100 EUR regular/student for single day workshop
+   - lots of accommodation of all kind is nearby
+   - Buenos Aires is a well connected airport: many direct
+     flights for 600-1000 EUR from Europe, 850 North America
+   - touristic highlights: cultural hotspot, barbecue, tango
+
+B. Minneapolis (presented by Gopalan Nadathur)
+   - FSCD would be organized by the Software Engineering Center
+     of the University of Minnesota
+   - it would take place at Keller Hall, home to the Computer
+     Science department, using classroom space; lunches, poster
+     session, social events would be in rentable uni space;
+     close to the city center (< 10 minutes by public transport)
+   - there is enough space for conference and workshops
+   - intended date: mid June to mid July, conflict with LICS
+     and CADE to be avoided; 4 days conference, 2 days workshops
+   - intended registration fees:
+     - 450/320 EUR regular/student for the conference, lunches
+       and social events included
+     - 58 EUR for every workshop day
+     - alternatives discussed in proposal
+   - Minneapolis airport is a hub, hence well connected
+   - potential local sponsors have been contacted
+   - campus housing is available for 45-65 EUR per day
+   - touristic highlights: lakes, parks, nature reserves, all
+     amenities of major city, microbreweries
+
+- result of the advisory vote: 38 votes for Buenos Aires, 11 for Minneapolis
+
+
