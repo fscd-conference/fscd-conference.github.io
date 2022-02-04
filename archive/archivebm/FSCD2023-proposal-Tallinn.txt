@@ -1,0 +1,254 @@
+Bid to hold FSCD 2023 in Tallinn, Estonia
+
+We propose to organize FSCD 2023 in Tallinn.
+
+Here are our plans.
+
+* Conference Chair:
+
+  Niccolò Veltri, researcher in the Logic and Semantics Group,
+  Department of Software Science, Tallinn University of Technology
+  (https://niccoloveltri.github.io/)
+
+* Local Committee:
+
+  Members from the Logic and Semantics Group (https://cs.ioc.ee/lsg/)
+  and the Support Unit of the Department of Software Science
+
+  Tarmo Uustalu, lead research scientist (http://www.ru.is/faculty/tarmo/)
+  Ruth Laos, head of the support unit
+  Kristel Toom, project coordinator
+  Philipp Joram, PhD student
+  Cheng-Syuan Wan, PhD student
+  
+  Possibly further members from the Compositional Systems and Methods Lab
+  (https://compose.ioc.ee) of Pawel Sobocinski
+
+Members of the team have previously organized a number of
+international events in Tallinn. They know the potential venues in the
+city well. They are experienced in budgeting and running a
+international conference in TCS. Niccolò Veltri was general chair of
+PPDP/LOPSTR in 2021.
+
+* Estonian Convention Bureau (https://www.ecb.ee/) supports conference
+organizers with information, events to get to know venues, services
+providers etc. The Tourist Board of Tallinn
+(https://visittallinn.ee/eng/professional) also supports conference
+organizers with their know-how. These services are free.
+
+Enterprise Estonia supports conference organization with grants funded
+by the European Regional Development Fund
+(https://www.eas.ee/teenus/support-for-international-conferences/?lang=en).
+The conditions of this grant scheme may be too rigid and constraining
+to be useful for organizing a conference like FSCD.
+
+The department is positive about increasing its visibility through
+conference organization and is happy to offer administrative help free
+of charge. The university is supportive of conference organization in
+declarations, but in 2021 the university's finance office took us by
+surprise by taking 15 pct of the fees we had collected as
+overheads. If the university does not change their policy, we will run
+FSCD through some non-profit association (we could approach, e.g., the
+Estonian Mathematical Society).
+
+For ticketing (registration, invoicing and fee collection, we plan to
+use the services of the Estonia start-up Fienta
+(https://fienta.com/organizer). They can handle federated conferences
+with a complicated fee structure, the organizer is in control of the
+setup and can change it dynamically if needed, can see the status of
+all registrations at any moment. The company's commission fee on
+registrations is 3.5 pct, which includes credit card transaction fees
+by their providers; registrations of participants that that do not pay
+(e.g., online participants) are processed for free.
+
+* Tallinn is mainly accessible by plane via the Tallinn Lennart Meri
+airport (TLL,https://www.tallinn-airport.ee/en/), which is located 4
+km southeast of the city centre and connected to it by a tram line.  A
+number of airlines operate routes at Tallinn airport, including
+Aeroflot, airBaltic, Finnair, LOT, Lufthansa, Norwegian, Ryanair, SAS,
+Swiss, Turkish and Wizz Air.
+
+The main airline hubs to connect to Tallinn are Frankfurt (Lufthansa),
+Riga (airBaltic) and Helsinki (Finnair).  Apart from connections to
+Tallinn through Riga, airBaltic also has direct flights to Tallinn
+from Amsterdam, Paris, Munich.
+
+Tallinn can also be reached by ferry from Helsinki and Stockholm, and
+by bus from Riga and Vilnius.
+
+* Tallinn has an excellent municipal transportation network
+(https://transport.tallinn.ee/#/en) with many bus, trolleybus and tram
+lines that run frequently (many services every 6-10 mins during peak
+hours) and punctually. The ticket for one ride is 1.50€.
+
+Taxis and ride-share services are relatively cheap, especially Bolt
+(https://bolt.eu/en/cities/tallinn) and Yandex
+(http://yandex-taxi.ee/en/).
+
+E.g. a ride with Bolt between the airport and the city centre
+costs less than 10€.
+
+
+* Suggested dates: 15-22 June or (preferably) 3-10 July.
+
+Fri-Sat 23-24 June is a major national holiday in Estonia (Jaanipäev, St
+John's = Midsummer Day).
+
+Fri-Sun 30 June-2 July 2023 Tallinn will host the 13th Estonian Youth
+Song and Dance Celebration (https://2023.laulupidu.ee/en/), an event
+that is held every five years and will bring to Tallinn tens of
+thousands of youth (choirs, orchestras, folk dance groups) from over
+the country and abroad.
+
+The Song and Dance Celebration is quite an attraction, a life-time
+experience in fact.
+
+(But of course it can only take place if the pandemic will subside by
+spring 2023.)
+
+
+To run the event in the week of 25 June-2 July 2022 is likely not
+realistic since the hotels will be full of guests and participants of
+the festival.
+
+
+* A physical vs an online event: We plan for a hybrid event. Even if
+the pandemic will be over (which we very much hope), we want that
+people that cannot travel (for financial difficulty, health issues,
+family situation, any other reason) can participate.
+
+* Estimated registration fees for FSCD 2023:
+
+Regular in-person participation: 300-400€
+
+Student in-person participation: 150-200€
+
+We will try to keep remote participation free of charge.
+
+In-person workshops participation: 200-250€, or 100-150€ for FSCD
+participants.
+
+* There are many possible venues in the city that can accomodate an
+event like FSCD 2023, with a suitable plenary hall and a good number
+of smaller rooms for workshops, with adequate internet
+connectivity. The required audiovisual equipment (also for online
+streaming) and professional technical support is either available at
+the venue or can ordered from a company specializing in these
+services, e.g., Art Konverentsitehnika (http://artko.ee/in-english/).
+
+Possibilities include:
+
+- Tallinn Teacher's House (in the Old Town)
+  https://opetajatemaja.ee/en/majast/
+  It hosted PPDP/LOPSTR 2021.
+
+- House of the Brotherhood of the Blackheads (in the Old Town)
+  https://www.filharmoonia.ee/en/mustpeademaja
+  It hosted ICFP/GPCE/TFP 2005, CADE 2005, Testcom-FATES/FORTE 2007,
+  TYPES 2015.
+
+- Kultuurikatel (just outside the Old Town)
+  https://kultuurikatel.ee/en/
+
+- Swissotel (in the city)
+  https://www.swissotel.com/hotels/tallinn/
+  It hosted ETAPS 2012.
+
+Tallinn University of Technology also has appropriate facilities for
+hosting the event, e.g. the Maritime Academy
+(https://taltech.ee/en/estonian-maritime-academy), which hosted MFCS
+2021.
+
+* There are plenty of hotels, hostels and apartments in the city
+  centre. Examples include:
+
+Hotels:
+
+- Kalev SPA (almost in the Old Town)
+  http://kalevspa.ee/
+
+- Meriton Old Town Garden Hotel (in the Old Town)
+  https://www.meritonhotels.com/
+
+- L'Ermitage (just outside the Old Town)
+  http://www.lermitagehotel.ee/
+
+Hostels:
+
+- Fat Margaret's Hostel (in the Old Town)
+  http://www.fatmargarets.ee/
+
+- Tallinn Backpackers (in the Old Town)
+  http://www.tallinnbackpackers.com/
+
+Some representative prices:
+
+Double room in Kalev SPA (including unlimited use of water park,
+saunas and gym): 65€ per night.
+
+Twin room in Fat Margaret's Hostel: 34€ per night.
+
+* The best local restaurants specialize in modern Estonian cuisine, an
+exciting fusion of Nordic and Eastern European influences.
+
+Just some good restaurants in the city include:
+
+- Restoran Pegasus (in the Old Town)
+  https://restoranpegasus.ee/en/home/
+
+- Restoran Moon (just outside the Old Town)
+  https://restoranmoon.ee/en/
+
+- Restoran Salt (in Kadriorg)
+  https://saltrestoran.ee/
+
+A meal at these restaurants, including main course, beverage and
+dessert, would typically cost around 25€.
+
+There are also many budget-friendly cafes and street food vendors in
+and around the city centre, especially in the new Balti Jaam market
+behind the central train station.
+
+* There are many touristic and leisure activities which one can
+indulge in in Tallinn during summertime.
+
+The municipality's official tourist info site is here:
+
+https://www.visittallinn.ee/eng
+
+Above all there is the medieval Old Town of Tallinn with its views and
+atmosphere, a UNESCO World Heritage site.
+
+There are green spaces like the Kadriorg park or the Kadriorg-Pirita
+seaside promenade.
+
+Some attractive museums and exhibition spaces include:
+
+- KUMU (Estonian Art) and other branches of the Estonian Art Museum 
+  https://kumu.ekm.ee/en/
+  
+- Estonian Open Air Museum
+  (rural buildings from different parts of the country)
+  https://evm.ee/eng/home
+
+- Seaplane Harbour
+  https://meremuuseum.ee/lennusadam/en/
+
+- Patarei Prison (crimes of communism)
+  https://patareiprison.org/en/
+
+- Fotografiska (photography)
+  https://www.fotografiska.com/tallinn/in-english/
+
+The Telliskivi and Noblessner areas, which are at a walking distance
+from Tallinn's Old Town, offer plenty of restaurants, bars and clubs.
+
+Tallinn has a number of water parks and swimming pools, which always
+include traditional Estonian saunas. Entry fees are friendly.
+
+There are a couple of nice beaches in the city (Pirita, Stroomi,
+Kakumäe), easily reachable by public transportation.
+
+Estonia is a well-recognized hub for craft beer. There are many good
+pubs and tap rooms scattered around Tallinn's city centre.
+
