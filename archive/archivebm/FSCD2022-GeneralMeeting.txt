@@ -1,0 +1,183 @@
+--------------------------------------------------------------------------
+Seventh International Conference on Formal Structures for Computation and Deduction (FSCD 2022)
+
+Minutes on the General Meeting - 5 August 2022, 16:00-17:30 (in-person; with option for non-voting virtual participation by FSCD SC members)
+
+Chair: Herman Geuvers
+Secretary: Carsten Fuhs
+
+--------------------------------------------------------------------------
+
+AGENDA
+
+1. Welcome by steering committee chair: Herman Geuvers
+2. Report on FSCD 2022 (Haifa, Israel, part of FLoC 2022)
+   (a) PC Chair: Amy Felty
+   (b) Conference Chair: Nachum Dershowitz
+3. Some news
+4. Progress Report on FSCD 2023, to be held in Rome, Italy
+   (a) Conference chair: Daniele Gorla
+   (b) PC co-chairs: Femke van Raamsdonk and Marco Gaboardi
+5. Advisory vote for FSCD 2024 (Birmingham, Tallinn)
+6. Election of two new steering committee members
+7. Thanks
+
+--------------------------------------------------------------------------
+
+1. Welcome by steering committee chair: Herman Geuvers
+
+https://fscd-conference.org/archive/archivebm/FSCD2022-SCChair.pdf
+
+Herman Geuvers welcomed everyone to the meeting and announced the agenda.
+
+2. Report on FSCD 2022 (Haifa, Israel, part of FLoC 2022)
+
+2. (a) PC Chair: Amy Felty
+
+https://fscd-conference.org/archive/archivebm/FSCD2022-PCChair.pdf
+
+The PC had 33 members from 19 countries, including 10 women. This was a slightly higher percentage of women and a lower percentage from Europe than in 2021.
+
+The CfP and calendar were similar to 2021. Submissions of regular research papers of up to 15 pages (excluding references and appendix) were invited. A page limit of 15 pages (excluding references) as also used for submissions of system description papers. The final versions of accepted papers were given 16 pages (excluding references and title page) as well as 4 pages for an appendix.
+
+Two PC discussions took place, one before the rebuttal phase, one after. The discussion before the rebuttal raised questions to be asked to the authors in the rebuttal phase. The FSCD PC Chair Manual had been very useful. There was no negative feedback on reviewing this year, but one message with positive feedback on the rebuttal phase.
+ 
+There were overall 70 abstracts, leading to 59 paper submissions. 31 of these submissions were accepted. This corresponds to an acceptance rate of 52.5%, with the quality of submissions high.
+
+53 of the paper submissions had 3 reviews, and 6 submissions had 4 reviews.
+
+The FSCD 2022 programme had two invited talks (Cynthia Kop, Alwen Tiu) and a special joint FSCD/LFMTP session honouring Frank Pfenning and celebrating his contributions on the occasion of his (belated) 60th birthday.
+
+During FSCD, the FLoC Invited Talk, Plenary Talk, and Logic Lounge took place (Catuscia Palamidessi, Orna Kupferman, Francesca Rossi). 31 regular talks were held, 5 of which via recorded videos and live Q&A on the Zoom platform (the speaker was online, and members of the audience could use the microphone to ask questions).
+
+There were 9 workshops affiliated with FSCD 2022.
+
+The Best Paper Award by Junior Researchers at FSCD 2022 was in memory of Boris (Boaz) Trakhtenbrot and sponsored by his family with EUR 250 per recipient. The award was given to Marc Hermes and Dominik Kirst for their paper "An Analysis of Tennenbaum's Theorem in Constructive Type Theory".
+
+As for special issue(s) of FSCD 2022, the plan would be to propose 1-2 papers for invitation to submission to TheoretiCS, suitable for top FSCD papers that cater to a wider TCS audience. Additionally, the usual special issue was planned for the Logical Methods in Computer Science (LMCS) journal, and authors of selected papers will be invited after the conference.
+
+The report was concluded by thanking the invited speakers, authors of submissions, PC members, external reviewers, local organisers (especially Nachum Dershowitz and the whole FLoC team), SC members, including the previous and current chair (Delia Kesner, Herman Geuvers), the Publicity Chair (Carsten Fuhs), the FSCD 2021 PC Chair (Naoki Kobayashi), the organisers of the 9 affiliated workshops, the LIPIcs team, the supporters (SIGLOG and SIGPLAN), the FLoC sponsors, and all the participants.
+
+After the report, a question from the audience was raised whether a breakdown of the PC according to the race of the PC members had been conducted. Herman Geuvers responded that there had not been a corresponding plan so far, but that it would be discussed in the SC.
+
+Silvia Ghilezan asked whether there had been a deadline extension. Amy Felty confirmed that there had been an extension by 1 week.
+
+2. (b) Conference Chair: Nachum Dershowitz
+
+https://fscd-conference.org/archive/archivebm/FSCD2022-SCChair.pdf
+
+Nachum Dershowitz presented FSCD 2022, which was held on-site at the Technion in Haifa as part of FLoC 2022. He reported that Moshe Vardi was stepping down as head of FLoC. Delia Kesner represented FSCD at FLoC.
+
+At a glance, FSCD 2022 had 9 pre-workshops and 1 post-workshop. FSCD 2022 had 30 papers and two invited talks/papers, with 78 authors and 58 registrations. Attendance was at 50+ persons. Workshops had 85+ registrations.
+
+The best paper award certificate in memory of Boris (Boaz) Trakhtenbrot was shown. Participation numbers for affiliated workshops as well as the uncertainties due to the Covid-19 pandemic were discussed.
+
+A member of the audience raised that FLoC allowed only 1 conference name per conference block in the registration form, so there might have been more FLoC participants who went to part of FSCD.
+
+The second presentation by Nachum Dershowitz was on "Rebutting Rebuttals":
+
+https://fscd-conference.org/archive/archivebm/FSCD2022-ConferenceChair-Rebuttals.pdf
+
+The presentation discussed the marginal effect of conference rebuttal phases on the accept/reject decisions and questioned the associated tremendous effort by the PC and by the submission authors. The presentation also pointed out the intangible value for the feelings of some authors while other authored were frustrated. The presentation was based on an analysis of several (about 6) conferences.
+
+Herman Geuvers mentioned that the SC was looking almost continuously at this issue and also saw a rebuttal phase as a way of ensuring that the paper had been looked at well.
+
+3. Some news
+
+Herman Geuvers mentioned the upcoming Call for Locations for FSCD 2025, which would help to prepare the next FSCD General Meeting.
+
+The CORE ranking and the unsuccessful submission of FSCD to the CORE ranking in 2020 were discussed. The submission had been unsuccessful due to the relatively young age of FSCD. The strong emphasis on quantitative data by CORE was mentioned.
+
+Pros and cons of putting in the necessary (non-trivial) amount of work for a resubmission to CORE were discussed in plenary.
+
+A decreasing trend in submission numbers of FSCD was mentioned, with the lack of CORE ranking as a possible reason. The point was raised from the audience that during FLoC, submission rate was always down and should be ignored, and that we should apply to CORE.
+
+Amy Felty pointed out that our community tended to self-referee and only submitted if the authors were really convinced of the quality of their paper (with low submission numbers and high acceptance rates as a consequence).
+
+Herman Geuvers then addressed the next point that, while FSCD 2022 had been a live event, future FSCDs would be hybrid. It would be possible to participate online and ask questions online. This would probably require 2 chairs per session and extra technical provision.
+
+The question for the registration fees was raised. Herman Geuvers responded that online participation was not going to be free and that discussion with the organisers of FSCD 2023 in Rome was taking place.
+
+The discussion then addressed concerns whether a hybrid model was a good idea for the future, with possible risks that mostly junior people might attend in person. Herman Geuvers mentioned that the move to a hybrid model had been discussed in the SC.
+
+The next topic was the number of participants. The high participation numbers in 2020 and 2021 were presumably due to the possibility for virtual presentation. In FLoC, FSCD is one of the smallest conferences.
+
+4. Progress Report on FSCD 2023, to be held in Rome, Italy
+   (a) Conference chair: Daniele Gorla
+   (b) PC co-chairs: Femke van Raamsdonk and Marco Gaboardi
+
+https://fscd-conference.org/archive/archivebm/FSCD2023-proposal-Rome.pdf
+
+Herman Geuvers reported on the progress on FSCD 2023, with the plan for FSCD 2023 to have 2 days for pre-workshops and maybe 1 day for post-workshops. A possible co-location with CADE was discussed.
+
+The tentative abstract deadline would be on 25 January 2023, with 1 February 2023 as the paper deadline. This would be just after LICS, which would have its paper deadline on 24 January 2023.
+
+Femke van Raamsdonk pointed out that LICS would take place in Boston, just a week before FSCD, so the FSCD pre-workshops might overlap with LICS.
+
+The question for the registration fee was raised. When it was mentioned that 500 Euros were to be charged for regular attendance and 380 Euros for student attendance, it was pointed out that this might be too much for a PhD student coming from a university without funding. Herman Geuvers said that he would communicate the comment to the local organisers. Femke van Raamsdonk added that a different fee would be charged for remote attendance.
+
+5. Advisory vote for FSCD 2024 (Birmingham, Tallinn)
+
+There were two bids for hosting FSCD 2024. The General Meeting would have the opportunity to cast an advisory vote to help the SC select the location.
+
+Herman Geuvers explained the voting system with a dedicated slide: for the preferred option, one could award 2 points, and for the less preferred option, one could award 0 or 1 points. The sum of all points would determine the winner of the vote.
+
+In addition to the bids
+
+https://fscd-conference.org/archive/archivebm/FSCD2024-proposal-Birmingham.pdf
+https://fscd-conference.org/archive/archivebm/FSCD2024-proposal-Tallinn.pdf
+
+the proposers had also been asked to prepare video presentations of their bids and answer questions in a live Q&A.
+
+The videos were both shown to the General Meeting.
+
+The Birmingham bid was by Paul Levy and Anupam Das. The proposal would involve a fee of 475 - 535 Euros with a partial virtual option and free chat/video for external participants.
+
+The Tallinn bid was by Niccolò Veltri. The fee would be 300 - 400 Euros, with a reduced fee of 150 - 200 Euros for students. A co-location with ICALP/LICS was mentioned as an option.
+
+After the videos, the General Meeting was given the opportunity to ask the proposers about their bids.
+
+The question was raised to what extent the prices in the videos were fixed. Both groups referred to the fees of recent conferences that they had organised at the same location as the basis of their calculations and mentioned the impact of inflation.
+
+For the Tallinn bid, a question about the possible impact of large-scale external security issues was raised. Niccolò Veltri responded that the level of alert was similar to locations that were situated analogously and that ICALP/LICS organisation was proceeding.
+
+The next question for the Tallinn bid was to what extent the organisation of LICS and FSCD would be joint. The response was that they were trying to keep the organisation separate, but to collaborate, and that it would be nice to share facilities and to have joint activities.
+
+Luigi Liquori (online) asked both groups about the pros/cons of co-locating FSCD with other conferences.
+
+Niccolò Veltri mentioned sharing facilities as a benefit and also that ICALP + FSCD + LICS together could be desirable. Anupam Das pointed to the FLoC co-location and to the virtual co-location with IJCAR in 2020 and stated that too many parallel tracks had the downside that it was difficult to focus on a specific conference and that workshops were facilitated by an independent event.
+
+Amy Felty raised the logistic point that the General Meeting would have to end by 5:30pm since the FLoC shuttle buses to the hotels would leave very soon after that.
+
+Herman Geuvers then initiated the vote, which was conducted by Amy Felty and Liye Guo and counted on the whiteboard. The vote took place with pen and paper, among everyone who was physically present in the room of the General Meeting.
+
+The result of the advisory vote was:
+
+Birmingham received 28 votes.
+Tallinn received 33 votes.
+
+6. Election of two new steering committee members
+
+The terms of Jakob Rehof and Damiano Mazza as elected SC members as well as the term of Jamie Vicary as SC workshop chair would end with FSCD 2022, and they would leave the SC. Amy Felty as the PC Chair of FSCD 2022 joined the SC with a term until 2025, and the General Meeting would elect two new members for the SC with a term until 2025.
+
+The new SC would then agree on a new SC workshop chair, with a term until 2026.
+
+The candidates for the two elected seats opening in the FSCD SC at FSCD 2022 were Jürgen Giesl, Guilio Manzonetto, and Daniele Nantes Sobrinho. Their election statements were available at:
+
+https://www.cs.tau.ac.il/~nachumd/FSCD/sc-election.html
+
+The voting system was presented (analogous to the vote for the location of FSCD 2024).
+
+The vote was again conducted by Amy Felty and Liye Guo and counted on the whiteboard.
+
+The result of the vote was:
+
+Jürgen Giesl received 40 votes.
+Giulio Manzonetto received 26 votes.
+Daniele Nantes received 37 votes.
+
+Thus, Jürgen Giesl and Daniele Nantes were elected to join the FSCD SC.
+
+7. Thanks
+
+When closing the General Meeting, Herman Geuvers thanked in particular the leaving SC members as well as the candidates.
