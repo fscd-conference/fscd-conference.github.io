@@ -1,0 +1,236 @@
+--------------------------------------------------------------------------
+Eighth International Conference on Formal Structures for Computation and Deduction (FSCD 2023)
+
+Minutes of the General Meeting - 5 July 2023, 16:00-18:00 (hybrid)
+
+Chair: Herman Geuvers
+Secretary: Carsten Fuhs
+
+--------------------------------------------------------------------------
+
+AGENDA
+
+1. Welcome by steering committee chair: Herman Geuvers
+2. Report on FSCD 2023 (Rome, Italy)
+   (a) PC Chairs: Femke van Raamsdonk and Marco Gaboardi
+   (b) Conference Chair: Daniele Gorla
+3. Some news
+4. Presentation of TheoretiCS: Delia Kesner
+5. Progress Report on FSCD 2024, to be held in Tallinn, Estonia
+   (a) PC chair: Jakob Rehof
+   (b) Conference chair: Niccolo Veltri
+6. Advisory vote for FSCD 2025 (Birmingham, UK; Tbilisi, Georgia)
+7. Election of two new steering committee members
+8. Other topics
+
+--------------------------------------------------------------------------
+
+1. Welcome by steering committee chair: Herman Geuvers
+
+https://fscd-conference.org/archive/archivebm/FSCD2023-SCChair.pdf
+
+Herman Geuvers welcomed everyone to the meeting and announced the agenda.
+
+2. Report on FSCD 2023 (Rome, Italy)
+
+2. (a) PC Chairs: Femke van Raamsdonk and Marco Gaboardi
+
+https://fscd-conference.org/archive/archivebm/FSCD2023-PCChairs.pdf
+
+The report by the PC Chairs was presented by Femke van Raamsdonk.
+
+FSCD 2023 was held over 4 days in Rome, in co-location with CADE. The first two days of FSCD overlapped with CADE. There were two joint invited talks of CADE and FSCD, and two invited talks of FSCD. The FSCD proceedings were published in LIPIcs, and a special issue in LMCS was planned.
+
+Thanks to the local organisation, including Daniele Gorla, Christos, and EasyConferences!
+
+The PC had 31 members from 18 countries, including 8 women. The aim was for diversity in expertise, geography, gender, age, with PC members not from the same institution.
+
+The CfP had called for regular research papers and system descriptions of at most 15 pages.
+
+The abstract deadline and paper deadline were extended by 5 and 6 days, respectively, with final paper deadline on 9 Feb 2023. Dates for rebuttal, notification, and final version were unchanged.
+
+The number of submissions showed an increase over last year (now 61). With 30 accepted papers, the acceptance rate was approx. 49%.
+
+Submissions were from 19 countries. The rebuttal process was identified as useful but also costly.
+
+The FSCD 2023 best paper award by junior researchers was given to Taichi Uemura for the paper "Homotopy type theory as internal languages of diagrams of ∞-logoses". Special thanks to Sandra Alves, who designed the certificate with elements of the skyline of the hosting location Rome!
+
+Eligible for the award were papers where at least 50% of the contribution was by a junior author. Thus, 15 out of 30 accepted papers were eligible. Three of these were single-authored; three others were co-authored with a PC member. PC members who were not co-authors could vote. Out of 26 cast votes, 12 were in favour of the award-winning paper.
+
+Invited talks were held by Mateja Jamnik, Maribel Fernández, Giulio Manzonetto, and Akihisa Yamada, the first two jointly with CADE.
+
+Nine workshops were affiliated with FSCD.
+
+The open-access FSCD 2023 proceedings were published with LIPIcs, with EUR 60 fee per paper (EUR 2040 in total) and 20 pages per paper (excluding references). Thanks to Michael Wagner and the LIPIcs team!
+
+A post-conference special issue with LMCS is planned, and 1-2 papers are going to be invited for submission to the TheoretiCS journal.
+
+Organising FSCD 2023 in hybrid mode was useful: 3 out of 30 talks could not have been given otherwise. Hybrid mode could be advertised more.
+
+The report was concluded by thanking to everyone involved in FSCD 2023.
+
+After the report, a question from the audience was raised regarding the numbers for online representation. Femke van Raamsdonk responded that the numbers were in the order of six.
+
+2. (b) Conference Chair: Daniele Gorla
+
+https://fscd-conference.org/archive/archivebm/FSCD2023-ConferenceChair.pptx
+
+There were 83 registrations for FSCD 2023, with 79 physical and 4 online. 19 of the registrations were student registrations, 57 were regular, and 7 were free.
+
+70 registrations were for workshops only.
+
+In addition to these registrations, there were 24 joint registrations for both FSCD and CADE, along with 2 joint keynote speakers.
+
+Registration numbers specific to the 9 workshops were reported, where registrations for a specific workshop day allowed free attendance of all co-located FSCD workshops on the same day and where the joint FSCD-CADE registration allowed free attendance of all co-located workshops.
+
+The geographic distribution of participants indicated the highest number for participants from France.
+
+The PC and SC were thanked for good teamwork.
+
+Regarding finances, a break even was announced and a small surplus predicted, with a detailed financial report in September to follow. It was also reported that EasyConferences, the company in charge of running the conference, had done a great job.
+
+The conference was organised on the university campus rather than in a hotel as originally planned to keep fees reasonably low. A good food service had been chosen.
+
+The report mentioned that prices were going crazy, with major cities such as Paris, London, ... possibly becoming no longer affordable for hosting conferences like FSCD.
+
+A comment from the audience indicated that the location on the university campus was appreciated and that there were no issues for participants.
+
+
+3. Some news
+
+Herman Geuvers reported that on 11 May 2023, the FSCD SC had submitted a request to the Australian CORE Ranking <https://www.core.edu.au/conference-portal> to list FSCD with Rank A.
+
+The FSCD mailing list was no longer active, and alternative mailing lists should be used.
+
+FSCD was organised as a hybrid event in 2023, and FSCD 2024 in Tallinn would be hybrid as well. This would provide further information about the additional option of online participation on the number of on-site participants.
+
+Proceedings for FSCD 2023 were published with LIPIcs; authors of selected papers would be invited to submit to the special issue in LMCS or to TheoretiCS.
+
+There were 227 participants in total, with 107 participating in FSCD. Participant numbers were significantly higher than for the last pre-Covid FSCD in 2019.
+
+Pros and cons of the hybrid conference format were discussed by the audience.
+
+
+4. Presentation of TheoretiCS: Delia Kesner
+
+https://fscd-conference.org/archive/archivebm/FSCD2023-TheoretiCS.pdf
+
+Delia Kesner presented TheoretiCS as a new top-quality, wide-scope diamond-open-access journal for the whole of theoretical computer science. The journal publishes original research, including revised versions of conference papers.
+
+Criteria were significance, lasting value, and being among the strongest contributions to the area during the last 12 months.
+
+The journal had representatives for 23 TCS conferences. It used a two-phase reviewing process with first results within three months. It was a diamond-open-access journal, free for readers and for authors. Editors-in-Chief were Javier Esparza and Uri Zwick.
+
+
+5. Progress Report on FSCD 2024, to be held in Tallinn, Estonia
+
+5. (a) PC chair: Jakob Rehof
+
+Jakob Rehof presented the PC of 29 members for FSCD 2024, more than 30% of them female. He reported that FSCD 2024 would be co-located with LICS and ICALP, with the time plan:
+
+FSCD: 10 - 13 July; workshops on 8 - 9 July
+LICS: 8 - 11 July; workshops on 12 - 13 July
+ICALP: 8 - 12 July; workshops on 6 - 7 July
+
+Tentative submission deadlines in February 2024 were announced.
+
+Herman Geuvers added that 14 July would be available for workshops as well (since FSCD traditionally had many affiliated workshops, two days might not be enough).
+
+5. (b) Conference chair: Niccolo Veltri
+
+There was no separate progress report by the conference chair of FSCD 2024.
+
+
+6. Advisory vote for FSCD 2025 (Birmingham, UK; Tbilisi, Georgia)
+
+Herman Geuvers announced that two bids had been submitted to organise FSCD 2025 (Birmingham, UK; Tbilisi, Georgia). The General Meeting would provide an advisory vote to indicate a preference between the two bids, and the Steering Committee would make the final decision. Every person in the room would have 1 vote, to be indicated by writing the name of the preferred location on the paper ballot.
+
+Before the vote, both bids were presented:
+
+- Birmingham, UK, by Anupam Das
+
+https://fscd-conference.org/archive/archivebm/FSCD2025-proposal-Birmingham-slides.pdf
+
+Anupam Das presented the bid for hosting FSCD 2025 in Birmingham, the second city of the UK, with a leading university. The local research group is closely aligned with FSCD, and the group has experience hosting the CSL 2018 and Tableaux 2021 conferences. The University of Birmingham has excellent transport and conference facilities.
+
+Birmingham was described as the workshop of the world and a major international centre. 
+
+The Theory Group at Birmingham has 17 permanent members.
+
+The chairs of the local organisation would be Anupam Das and Paul Blain Levy, with assistance by further staff members and students. Dates would be either 30 June - 6 July or 7 July - 13 July.
+
+Excellent hybrid facilities would be available, allowing for a corresponding experience. The current plan would be to make talks free to stream, but to allow for remote speakers in exceptional circumstances only, to ease audio provision.
+
+Estimated costs (based on CSL 2018 + inflation) would be GBP 460 for early registration, GBP 300 for student registration, and GBP 40 per workshop day.
+
+Birmingham and nearby London airports would be globally well connected. The conference would take place in the Aston Webb building, with a campus hotel (GBP 75 per night) and potentially also dormitories available for accommodation. Many catering options would be available, catering for a diverse set of dietary requirements.
+
+Daniele Gorla raised the question how GBP 40 per workshop day could be feasible. Anupam Das stated that the costing was also based on FSCD 2017 at Oxford University and benefit from free room access and free in-house support with a lot of expertise.
+
+Herman Geuvers enquired whether coffee and lunch would be included in the fees. Anupam Das responded that coffee would be included, but that lunch would not (neither for workshops nor for the conference).
+
+The question came up whether the student registration would include social events as well. Anupam Das confirmed that a student registration would be a full registration.
+
+Herman Geuvers asked whether the online provision would be available for free. Anupam Das confirmed that streaming access would be made available for free thanks to the high cost-effectiveness.
+
+- Tbilisi, Georgia, by Luigi Liquori
+
+https://fscd-conference.org/archive/archivebm/FSCD2025-proposal-Tbilisi-slides.pdf
+
+The proposal by Besik Dundua and Mikheil Rukhaia was presented by Luigi Liquori. The location would be Tbilisi State University, established in 1918 and five minutes from the city centre with public transport. Tbilisi International Airport had direct connections to more than 30 destinations in Europe, Asia, and the Middle East. Public transport was available at low prices.
+
+Suitable conference facilities with lunch options as well as hotels near the conference site would be available.
+
+The local organisers had already run the Computational Logic Autumn Summit in 2022, with 6 conferences, 3 schools, and an EuroProofNet workshop. In 2023 the Computability in Europe conference was run by the same organisers.
+
+For the format, there was a preference to host FSCD fully in-person, but in case of strong demand, a hybrid option would be possible.
+
+Estimated fees for early/late registration would be EUR 350/400 for regular participation, EUR 200/250 for student participation, and EUR 100/150 for workshop participation. The fee would include access to conference material, coffee breaks, and social events.
+
+In case CADE and FSCD would want to co-locate in 2025, the organisers would take the responsibility to do so.
+
+The presentation finished pointing out the cultural and culinary highlights of Georgia.
+
+Herman Geuvers enquired whether the registration fee would also include lunch. Luigi Liquori confirmed.
+
+
+After the presentations, the vote was carried out. The following outcome was announced:
+
+24 votes for Birmingham
+21 votes for Tbilisi
+3 non-votes
+
+Herman Geuvers announced that the Steering Committee would think about the outcome in all its wisdom after FSCD 2023.
+
+
+7. Election of two new steering committee members
+
+Herman Geuvers announced the changes to the composition of the FSCD Steering Committee after FSCD 2023:
+
+Outgoing members:
+
+- Silvia Ghilezan and Stefano Guerrini (elected; 2020 - 2023)
+- Zena Ariola (PC Chair 2020; 2020 - 2023)
+
+Incoming members:
+
+- Femke van Raamsdonk and Marco Gaboardi (PC Chairs FSCD 2023; 2023 - 2026)
+- two new members elected by the General Meeting at FSCD 2023
+
+Candidates:
+
+- Patrick Baillot (CNRS, Lille)
+- Giulio Manzonetto (Paris)
+
+With two candidates for two positions, both candidates were automatically elected without an explicit vote.
+
+
+8. Other topics
+
+Herman Geuvers closed the General Meeting with thanks to everyone involved in making FSCD a success.
+
+
+
+
+
+
