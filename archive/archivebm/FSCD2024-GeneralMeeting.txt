@@ -1,0 +1,113 @@
+--------------------------------------------------------------------------
+Ninth International Conference on Formal Structures for Computation and Deduction (FSCD 2024)
+
+Minutes of the General Meeting - 12 July 2024, 16:30-17:30 (hybrid)
+
+Chair: Herman Geuvers
+Secretary: Jürgen Giesl 
+
+--------------------------------------------------------------------------
+
+AGENDA
+
+1. Welcome by steering committee chair: Herman Geuvers
+2. Report on FSCD 2024 (Tallinn, Estonia)
+   (a) PC Chair: Jakob Rehof
+   (b) Conference Chair: Niccolò Veltri 
+3. Some news
+4. Update on coming FSCD editions: 2025, 2026
+5. Election of two new steering committee members
+6. Presentation on FSCD and climate change, by Hugo Herbelin 
+7. FSCD SC Chair
+
+--------------------------------------------------------------------------
+
+1. Welcome by steering committee chair: Herman Geuvers
+
+https://fscd-conference.org/archive/archivebm/FSCD2024-slides.pdf
+
+Herman Geuvers welcomed everyone to the meeting and announced the agenda.
+
+2. Report on FSCD 2024 (Tallinn, Estonia)
+
+2. (a) PC Chair: Jakob Rehof
+
+https://fscd-conference.org/archive/archivebm/FSCD20242a_FSCD2024_PCC_Report.pdf
+
+The report by the PC Chair was presented by Jakob Rehof.
+
+The PC had 28 members from 14 countries, including 11 women (>39%). The aim was for diversity in expertise, geography, gender, age.
+The CfP had called for regular research papers and system descriptions of at most 15 pages.
+
+The abstract deadline and paper deadline were both extended by 7 days, with final paper deadline on 19 Feb 2024. Dates for rebuttal, notification, and final version were unchanged. The deadline extension was useful.
+The final version format was extended in the following way:
+„For the final version, there is a page limit of 20 pages for the main body (excluding bibliography). If you want to have appendices the number of pages of main body and appendices together is limited to 20 pages.“
+
+The number of submissions was 57 (compared to 61 in 2023), including 55 regular research papers submissions and 2 systems descriptions. With 30 accepted papers, the acceptance rate was approx. 49% for regular research papers.
+
+Submissions came from 19 countries (no. 1 France, no. 2 UK). 
+All submissions had at least 3 reviews (38 had 3 reviews, 17 had 4 reviews, 2 had 5 reviews). Reviews were of very high quality. The rebuttal process was identified as important.
+
+The FSCD 2024 best paper award by junior researchers was given to Victor Sannier for the paper "A Linear Type System for Lp-Metric Sensitivity Analysis”. 
+
+There were 3 FSCD invited talks, with papers included in the FSCD proceedings: Delia Kesner (Université Paris Cité, France); Bettina Könighofer and Roderick Bloem (Graz University of Technology, Austria); Sebastian Ullrich (Lean Focused Research Organisation, USA).
+There were also two joint invited speakers with ICALP and LICS;
+Edith Elkind (University of Oxford); Stephanie Weirich (University of Pennsylvania, USA).
+
+14 workshops were affiliated with ICALP/LICS/FSCD 2024.
+
+The open-access proceedings were published with LIPIcs, with EUR 60 fee per paper (EUR 2040 in total) and 20 pages per paper (excluding references). Thanks to Michael Wagner and the LIPIcs team!
+
+The report was concluded by thanking to everyone involved in FSCD 2024.
+
+2. (b) Conference Chair: Niccolò Veltri 
+
+https://fscd-conference.org/archive/archivebm/FSCD2024-2b_veltri-fscd24-gm.pdf
+
+FSCD 2024 was held over 4 days, with 2 days of overlapping with LICS and 3 days of overlapping with ICALP. There were 14 workshops. The conference venue was Tallinn University.
+
+There were 435 conference participants in total and 65 participants of workshops only. So in total, there were around 500 participants (in presence).
+Concerning registration, 157 people registered for “all inclusive”, 29 people registered for FSCD only.
+There were 102 online participants (free registration). The possibility for free online participation was only announced shortly before the event. There were never more than 20 participants online at the same time.
+For the three conferences and the workshops participants came from 33 countries (most represented country was UK, followed by France). Around 10 presenters could not participate in person because of visa denial.
+The social programme included a welcome reception, a joint banquet, and some guided tours in the old town of Tallinn. 
+Free public transport usage was offered by the City of Tallinn, available for all the participants and accompanying persons.
+The report was concluded by thanking the organizing team, the PC and the SC for the good work.
+
+3. Some news
+
+In 2023 FSCD had submitted a proposal to CORE ranking (https://www.core.edu.au/conference-portal ) requesting rank A, but obtained rank B. Ranking is based on H-indexes. CORE ranking is important in many countries, e.g., Spain. IJCAR has been downgraded from A∗ to A. One reason could be that CORE takes the H-index of the conference chairs into account. European conferences like CSL have disadvantages with CORE.
+
+Herman Geuvers asked to the participants of the GM: should FSCD be CORE-ranked? An indicative vote by show of hands gave the following result: the large majority is for “yes”, some are undecided, almost nobody is for “no”.
+
+FSCD 2024 was a hybrid event which required one full registration per paper.
+Proceedings were published in LIPIcs. Some selected papers will be invited to a special issue of LMCS. Additionally,  probably 1-2 papers may be published in TheoretiCS. This should become a top open-access journal with papers of wide interest. Up to now, they did not accept any FSCD paper. The FSCD representative at TheoretiCS used to be Delia Kesner, and it will be Patrick Baillot in the future.
+
+Presentation of TheoretiCS (update): https://fscd-conference.org/archive/archivebm/FSCD2024-3b_TheoretiCS-Update-Slides_FSCD2024.pdf
+
+Herman Geuvers presented some statistics on the number participants and number of submitted papers to the successive editions of FSCD since 2016.
+It would be good to increase the submission numbers. One question related to this goal is: should FSCD move in the annual calendar? Currently, many related conferences have similar deadlines. By moving FSCD, one might increase the number of submissions. For example, the submission deadline could be moved to end of March, with the conference taking place at the end of August. Then FSCD could co-locate with ICFP or CONCUR, for example.
+Every 4 years, FSCD would have to change its timing in order to take place within FLoC.
+
+4. Update on coming FSCD editions: 2025, 2026
+
+FSCD 2025 will take place in Birmingham, UK. The PC chair is Maribel Fernandez and the Conference chairs are Anupam Das and Paul Levy. A preliminary call-for-papers is presented (https://fscd-conference.org/archive/archivebm/FSCD2024-4a_first-cfp-2025.pdf ).
+
+FSCD 2026 will be part of FLoC, in Lisbon, Portugal. The local Organiser for FSCD is Sandra Alves. The PC chair still has to be determined.
+
+5. Election of two new steering committee members
+
+The current situation is the following: Carsten Fuhs, Naoki Kobayashi, Jakob Rehof, Delia Kesner, Alejandro Dìaz-Caro, and Luigi Liquori will leave the SC.
+Jakob Rehof, as PC Chair of FSCD 2024, joins the SC with a term until 2027. The term of Herman Geuvers as SC Chair ends, and he remains SC member until 2027, as former SC Chair.
+Two new SC members have to be elected, with a term until 2027. There are three candidates: Jörg Endrullis, Carsten Fuhs and Ugo dal Lago.
+The election is done via pen and paper, with the following result: Ugo dal Lago gets 21 votes, Carsten Fuhs gets 20 votes, Jörg Endrullis gets 9 votes. Thus, Ugo dal Lago and Carsten Fuhs are elected into the FSCD SC.
+
+6. Presentation on FSCD and climate change, by Hugo Herbelin 
+
+https://fscd-conference.org/archive/archivebm/FSCD2024-6_fscd-climate-short.pdf
+
+Some key numbers on CO2 emissions and on the reduction of CO2 emissions in the EU are presented. In France, CNRS and INRIA should be exemplary in this area. Researchers can try to reduce their CO2 emissions (e.g., by publishing in journals instead of conferences, by taking the train instead of the plane in spite of higher costs, etc.). Several options for FSCD are discussed (e.g., location, vegetarian catering, online attendance, etc.)
+
+7. FSCD SC Chair
+
+Herman Geuvers’ term as SC chair ends, but he will remain member of the SC. The new SC chair is Patrick Baillot.
