@@ -1,0 +1,172 @@
+--------------------------------------------------------------------------
+Tenth International Conference on Formal Structures for Computation and Deduction (FSCD 2025)
+
+Minutes of the General Meeting - 17 July 2025, 14:00-15:15 (hybrid)
+
+Chair: Patrick Baillot
+Secretary: Carsten Fuhs
+
+--------------------------------------------------------------------------
+
+AGENDA
+
+1. Welcome by steering committee chair: Patrick Baillot
+2. Report on FSCD 2025 (Birmingham, UK)
+   (a) PC Chair: Maribel Fernández
+   (b) Conference Chairs: Anupam Das and Paul Blain Levy
+3. Some news
+4. Presentation of TheoretiCS
+5. Progress Report on FSCD 2026, to be held in Lisbon, Portugal
+   (a) PC chair: Frank Pfenning
+   (b) Conference chair: Sandra Alves
+6. Proposal of location for FSCD 2027: Herman Geuvers
+7. Election of two new steering committee members
+8. CACM Research Highlights via SIGLOG: Liron Cohen
+9. Other topics or questions
+
+--------------------------------------------------------------------------
+
+1. Welcome by steering committee chair: Patrick Baillot
+
+https://fscd-conference.org/archive/archivebm/FSCD2025-slides.pdf
+
+Patrick Baillot welcomed everyone to the meeting and announced the agenda.
+
+
+2. Report on FSCD 2025 (Birmingham, UK)
+
+2. (a) PC Chair: Maribel Fernández
+
+https://fscd-conference.org/archive/archivebm/FSCD2025-2a_PC_Chair_report.pdf
+
+FSCD 2025 was the 10th FSCD and held in-cooperation with ACM SIGLOG. There were 8 affiliated workshops.
+
+The PC had 31 members from 15 countries, including 12 women. The Organisation Committee, the Workshops Committee, the Steering Committee, and the list of Invited Speakers were presented.
+
+The number of submissions showed an increase over last year (now 77). With 31 accepted papers, the acceptance rate was approx. 40.3%. A total of 244 reviews were written, and every paper got at least 3 reviews. Submissions were from 23 countries.
+
+The FSCD 2025 best paper award by junior researchers was given to Meven Lennon-Bertrand for the paper "What does it take to certify a conversion checker?".
+
+The programme consisted of 4 invited talks and 31 contributed talks. The proceedings were published by LIPIcs in volume 337.
+
+The report was concluded by thanking to everyone involved in FSCD 2025.
+
+2. (b) Conference Chairs: Anupam Das and Paul Blain Levy
+
+https://fscd-conference.org/archive/archivebm/FSCD2025-2b_Conference_Chair_report.pdf
+
+The report by the conference chairs was presented by Anupam Das.
+
+FSCD 2025 was held as a standalone conference without co-location with other conferences. Affiliated workshops were on the day before the conference and on the two days after the conference. Participation fees were competitive.
+
+FSCD 2025 was sponsored by the University of Birmingham, VeTSS, and UKRI and held as an ACM in-cooperation conference. The venue was the Edgbaston Park Hotel on the university campus. Excursion and banquet were in Warwick Castle.
+
+Registration statistics were reported. There were a total of 155 registrations for some or all of the events.
+
+As in previous years, free virtual participation was made available. A Zoom stream without online chat/questions was used. There were 126 registered participants, with typically 10 - 20 online at any time.
+
+The report concluded with reflections on cost, complexity, and the virtual setting. Specifically, two persons full-time were needed for the technical set-up (e.g., Zoom, microphones).
+
+
+3. Some news
+
+Patrick Baillot presented an overview over the number of submissions, accepted papers, and participants in the FSCD editions of previous year and the current year.
+
+Following discussions in the Steering Committee and at the General Meeting of FSCD 2024 on attracting more submissions, the submission deadline for FSCD 2027 would be in late April, with the conference itself in late August.
+
+The current rank B of FSCD at the ICORE ranking was discussed and put in context with the current ICORE ranks of related conferences.
+
+Proceedings for FSCD 2025 were published with LIPIcs; authors of selected papers would be invited to submit to the special issue in LMCS or to TheoretiCS.
+
+
+4. Presentation of TheoretiCS
+
+https://fscd-conference.org/archive/archivebm/FSCD2025-4_TheoretiCS.pdf
+
+Patrick Baillot presented a reminder of TheoretiCS as an open-access journal with a two-phase editorial process, along with submission statistics. "Track B" had not received many submissions thus far. Funding by the KOALA project by the German National Library of Science and Technology was acknowledged.
+
+
+5. Progress Report on FSCD 2026, to be held in Lisbon, Portugal
+
+5. (a) PC chair: Frank Pfenning
+
+https://fscd-conference.org/archive/archivebm/FSCD2025-5a_FSCD2026_PC_Chair.pdf
+
+Frank Pfenning presented the timeline for submission and notification of FSCD 2026. PC recruiting would start in the week after FSCD 2025.
+
+5. (b) Conference chair: Sandra Alves
+
+https://fscd-conference.org/archive/archivebm/FSCD2025-5b_FSCD2026_Conference_Chair.pdf
+
+Sandra Alves presented the preparations for FSCD 2026 in Lisbon as the Conference Chair of the 1st and now the 11th edition of FSCD.
+
+FSCD 2026 would be part of the Federated Logic Conference (FLoC), in week 1. Affiliated workshops would be on the two days before FSCD and on the two days after FSCD.
+
+The organisation team and the venue at the ISCTE campus were presented, along with transport options to reach Lisbon and the conference venue. Public transport in Lisbon for conference participants was presented, as well as the planned locations for reception and banquet.
+
+
+6. Proposal of location for FSCD 2027: Herman Geuvers
+
+https://fscd-conference.org/archive/archivebm/FSCD2025-6_FSCD2027_Conference_Chair.pdf
+
+Patrick Baillot announced that one proposal for hosting FSCD 2027 had been received.
+
+Herman Geuvers presented the proposal for hosting FSCD 2027 in Nijmegen, The Netherlands. The host institution would be Radboud University Nijmegen, specifically the CS Department (ICIS) with the section Software Science, containing the Foundation group.
+
+The proposed dates would be 23 - 26 August 2027 for the main conference and 22, 27, 28 August for the workshops. The goal would be to colocate with CADE, as done in 2023. Different venues options in Nijmegen, reachability of Nijmegen, expected costs, and leisure opportunities were presented.
+
+After this presentation, the floor was opened to comments and questions.
+
+Patrick Baillot commented that FSCD had not been held in the Netherlands before.
+
+The point was raised from the audience that pushing the submission date was a great idea, but that running the conference in the second half of August would be problematic as the kids would be on vacation.
+
+Herman Geuvers commented that in the Netherlands the kids would have started school by then. Patrick Baillot pointed to the discussion at the General Meeting of FSCD 2024 and to the existing drawbacks of summer conference dates both in July and in August, making ideal dates impossible in general. The discussion at the General Meeting and in the Steering Committee had led to the decision to try this calendar. The discussion could be continued for the next FSCD editions as the dates were indeed not ideal for all countries.
+
+Patrick Baillot raised the question whether the audience approved of co-location with CADE. Large approval was indicated by hand raise.
+
+Herman Geuvers indicated that starting the conference on 30 August would also be possible.
+
+The point was raised from the audience that September was getting increasingly overloaded.
+
+An indicative vote was held to gauge the preferences for 23 vs 30 August, with 12 hand raises for 23 August and 5 hand raises for 30 August.
+
+
+7. Election of two new steering committee members
+
+Patrick Baillot announced the changes to the composition of the FSCD Steering Committee after FSCD 2025:
+
+Outgoing members:
+
+- Jürgen Giesl and Daniele Nantes (elected; 2022 - 2025)
+- Amy Felty (PC Chair 2022; 2022 - 2025)
+
+Incoming members:
+
+- Maribel Fernández (PC Chairs FSCD 2025; 2025 - 2028)
+- two new members elected by the General Meeting at FSCD 2025
+
+Candidates:
+
+- Sandra Alves (University of Porto)
+- Jürgen Giesl (RWTH Aachen University)
+
+With two candidates for two positions, both candidates were automatically elected without an explicit vote.
+
+
+8. CACM Research Highlights via SIGLOG: Liron Cohen
+
+https://fscd-conference.org/archive/archivebm/FSCD2025-8_Research_Highlights.pdf
+
+Liron Cohen presented the Research Highlights section of the Communications of the ACM (CACM), with ACM SIGLOG as a newly approved nominating organisation. SIGLOG would nominate 3 - 5 papers and had so far had 100% accept rate. Papers could be suggested by everyone, and the idea would be that a paper in the Research Highlights section should communicate well outside of our community.
+
+
+9. Other topics or questions
+
+No other topics were raised, and Patrick Baillot closed the General Meeting at 3:15pm.
+
+
+
+
+
+
